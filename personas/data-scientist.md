@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Personas
+title: data-scientist
 nav_order: 1
+parent: Personas
 has_children: false
 ---
 
