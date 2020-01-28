@@ -1,21 +1,19 @@
 # Use Case Library Glossary
 
-The Use Case Library consists of a set of **user narratives**. Each
-narrative captures one set of highly-related scientific objectives and
-is achieved by a series of **user epics**. Each epic is enabled by a
+A Use Case consists of an **Objective** and a **Persona** - 
+a person who can have an objective. These are combined into a **summary**
+of specific use for the CFDE, which can be achieved by a series 
+of **user narratives**. Each narrative is enabled by a
 set of **user stories**, which are technically-focused details about
-how to achieve that epic.  User stories will often be shared among
-different epics.
+how to achieve that narrative. User stories will often be shared among
+different narratives. 
 
-The Use Case Library also provides a set of high level **summaries** that
-capture the essential scientific objectives and place them in the context
-of larger goals and the Consortium timelines.
 
 ![Use case library glossary image](../images/UseCaseTopDown.jpg)
 
 ### Definitions
 
-#### Scientific Objective
+#### Objective
 
 A description of a scientific process, told
 without reference to a specific technology solution. Focuses on
