@@ -1,8 +1,10 @@
 ---
 layout: default
-title: User Focused Summaries
+title: Summaries
 nav_order: 4
 has_children: true
 ---
 
-# User Focused Summaries
+# Summaries
+
+User focused and tech focused
