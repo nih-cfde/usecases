@@ -2,7 +2,7 @@
 layout: default
 title: Contributing
 parent: Home
-nav_order: 1
+nav_order: 2
 ---
 
 # Contributing to the nih-cfde Use Case Repository
