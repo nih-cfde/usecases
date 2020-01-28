@@ -1,3 +1,10 @@
+---
+layout: default
+title: Contributing
+parent: Home
+nav_order: 1
+---
+
 # Contributing to the nih-cfde Use Case Repository
 
 Hello, and thank you for wanting to contribute to the CFDE Use Case
