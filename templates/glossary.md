@@ -23,8 +23,8 @@ be validated with scientific stakeholders.
 #### Persona 
 A type of user who will appear in the epics and stories that follow.
 
-#### Scientific Summary
-A high-level, non-technical description of an entire Use Case. The user in each summary has a name, a scientific problem, and both proximate and ultimate goals. The focus is on the science and what is generally needed to solve it.
+#### User Focused Summary
+A high-level, non-technical description of an entire Use Case. The user in each summary has a name, a scientific or administrative problem, and both proximate and ultimate goals. The focus is on the problem and what is generally needed to solve it.
 
 #### Technical Summary
 A more technical summary of the Use Case. Like the Scientific Summary, the user has a name, a scientific problem and goals, however here there is more detail about the specific tasks and less focus on the scientific relevance.
