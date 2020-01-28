@@ -5,9 +5,8 @@ parent: Home
 nav_order: 1
 ---
 
-{:toc}
-
 # Use Case Library Glossary
+{:toc}
 
 A Use Case consists of an **Objective** and a **Persona** - 
 a person who can have an objective. These are combined into a **summary**
