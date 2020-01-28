@@ -15,7 +15,9 @@ of larger goals and the Consortium timelines.
 
 ### Definitions
 
-**Scientific Objective:** a description of a scientific process, told
+#### Scientific Objective
+
+A description of a scientific process, told
 without reference to a specific technology solution. Focuses on
 resources required, method(s) followed, and outcome(s) targeted. Can
 be validated with scientific stakeholders.
