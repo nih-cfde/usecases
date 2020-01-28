@@ -3,3 +3,9 @@ description: Common Fund Data Ecosystem Use Case Library
 show_downloads: false
 google_analytics:
 remote_theme: pmarsceill/just-the-docs
+# Aux links for the upper right navigation
+aux_links:
+  "Suggest a Use Case":
+    - "https://nih-cfde.org/contact/"
+  "Contribute on GitHub":
+    - "https://github.com/ACharbonneau/usecases"
