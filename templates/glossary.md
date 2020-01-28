@@ -6,7 +6,6 @@ nav_order: 1
 ---
 
 # Use Case Library Glossary
-{:toc}
 
 A Use Case consists of an **Objective** and a **Persona** - 
 a person who can have an objective. These are combined into a **summary**
@@ -21,23 +20,24 @@ different narratives.
 
 ### Definitions
 
-#### Objective
+1. Objective
+{:toc}
 
 A description of a scientific process, told
 without reference to a specific technology solution. Focuses on
 resources required, method(s) followed, and outcome(s) targeted. Can
 be validated with scientific stakeholders.
 
-#### Persona 
+2. Persona 
 A type of user who will appear in the epics and stories that follow.
 
-#### User Focused Summary
+3.  User Focused Summary
 A high-level, non-technical description of an entire Use Case. The user in each summary has a name, a scientific or administrative problem, and both proximate and ultimate goals. The focus is on the problem and what is generally needed to solve it.
 
-#### Technical Summary
+4.  Technical Summary
 A more technical summary of the Use Case. Like the Scientific Summary, the user has a name, a scientific problem and goals, however here there is more detail about the specific tasks and less focus on the scientific relevance.
 
-#### User Narrative
+5.  User Narrative
 A story, told from the user's perspective that captures a
 valuable set of interactions with tools (e.g. software solutions) in
 the service of achieving the scientific objective. Must be written in
@@ -47,7 +47,7 @@ answer the question posed in the scientific objective. It should include mention
 achieve their goal, even interactions that don't involve the software
 or data from the Common Fund. 
 
-#### User Story
+6.  User Story
 A specific piece of a User Narrative that translates to a
 well-scoped and defined piece of software or data engineering
 work. These should be small tasks that can be verified with engineering teams (Did we deliver it? Yes
