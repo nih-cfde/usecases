@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Munge Analysis- User focused
-nav_order: 5
-parent: Munge Analysis
+title: Munge Analysis- Technical
+nav_order: 6
+parent: User Focused Summaries
 grand_parent: Summaries
 has_children: false
 ---

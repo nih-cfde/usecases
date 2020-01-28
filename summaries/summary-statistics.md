@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Summary Statistics- User Focused
-nav_order: 7
-parent: Summary Statistics
-grand_parent: Summaries
-has_children: false
+title: Summary Statistics
+nav_order: 4
+parent: Summaries
+has_children: true
 ---
 
 ### Persona

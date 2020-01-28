@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Layer Analysis- User Focused
-nav_order: 3
+title: Layer Analysis- Technical
+nav_order: 4
 parent: Layer Analysis
 grand_parent: Summaries
 has_children: false
