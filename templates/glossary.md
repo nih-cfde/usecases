@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glossart
+title: Glossary
 parent: Home
 nav_order: 1
 ---
