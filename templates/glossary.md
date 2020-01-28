@@ -8,6 +8,15 @@ nav_order: 1
 # Use Case Library Glossary
 {: .no_toc }
 
+A Use Case consists of an **Objective** and a **Persona** - 
+a person who can have an objective. These are combined into a **summary**
+of specific use for the CFDE, which can be achieved by a series 
+of **user narratives**. Each narrative is enabled by a
+set of **user stories**, which are technically-focused details about
+how to achieve that narrative. User stories will often be shared among
+different narratives. 
+
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -16,13 +25,6 @@ nav_order: 1
 
 ## Overview
 
-A Use Case consists of an **Objective** and a **Persona** - 
-a person who can have an objective. These are combined into a **summary**
-of specific use for the CFDE, which can be achieved by a series 
-of **user narratives**. Each narrative is enabled by a
-set of **user stories**, which are technically-focused details about
-how to achieve that narrative. User stories will often be shared among
-different narratives. 
 
 
 ![Use case library glossary image](../images/UseCaseTopDown.jpg)
