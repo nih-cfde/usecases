@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Browse and Filter
+title: Browse and Filter- Technical
 nav_order: 1
-parent: Summaries
-has_children: true
+parent: Browse and Filter
+has_children: false
 ---
