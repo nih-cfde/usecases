@@ -3,7 +3,7 @@ description: Common Fund Data Ecosystem Use Case Library
 url: "https://ACharbonneau.github.io"
 show_downloads: false
 google_analytics:
-logo: "/images/cfde-logo.png"
+logo: "/images/CFDE-logo.png"
 search_enabled: true
 remote_theme: pmarsceill/just-the-docs
 # Aux links for the upper right navigation
