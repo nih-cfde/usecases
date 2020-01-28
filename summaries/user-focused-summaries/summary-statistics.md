@@ -4,6 +4,7 @@ layout: default
 title: Summary Statisitics
 nav_order: 4
 parent: User Focused Summaries
+grand_parent: Summaries
 has_children: false
 ---
 
