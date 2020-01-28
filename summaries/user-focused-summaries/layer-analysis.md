@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Layer Analysis
+title: Layer Analysis- User Focus
 nav_order: 2
-parent: User Focused Summaries
+parent: Layer Analysis
 has_children: false
 ---
 
