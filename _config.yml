@@ -2,7 +2,7 @@ title: CFDE Use Case Library
 description: Common Fund Data Ecosystem Use Case Library
 show_downloads: false
 google_analytics:
-logo: "/images/CFDE-logo.png"
+logo: "images/CFDE-logo.png"
 search_enabled: true
 remote_theme: pmarsceill/just-the-docs
 # Aux links for the upper right navigation
