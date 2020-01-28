@@ -1,6 +1,6 @@
 ---
 layout: default
-title: objectives
+title: Objectives
 nav_order: 3
 has_children: true
 ---
