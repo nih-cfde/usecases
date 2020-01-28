@@ -3,6 +3,7 @@ layout: default
 title: Browse and Filter- User Focused
 nav_order: 1
 parent: Browse and Filter
+grand_parent: Summaries
 has_children: false
 ---
 
