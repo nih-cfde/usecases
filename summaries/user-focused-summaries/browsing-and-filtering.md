@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Browse and Filter
+title: Browse and Filter- User Focused
 nav_order: 1
-parent: User Focused Summaries
+parent: Browse and Filter
 has_children: false
 ---
 
