@@ -1,3 +1,12 @@
+
+---
+layout: default
+title: Summary Statisitics
+nav_order: 4
+parent: User Focused Summaries
+has_children: false
+---
+
 ### Persona
 This user owns and is a custodian of the raw data, pipelines, portal, tools and processed data. This user has a vested interest in making sure their data is available, widely used, and used appropriately. They are concerned both that their data is being used within the confines of its use policy, and also that users are making sound statistical and biological inferences with it. This is because misinterpretation of the data can lead to wasted efforts and discrediting the resource. The DCC as a whole have a deep knowledge of their dataset and how it can and can’t be used to answer questions; however, their computational knowledge may range from novice to professional bioinformatician. This user is also interested in monitoring their data releases and the use of their data. For new data, they want to monitor progress statistics such as percent uploaded. For established datasets, they want to monitor usage statistics like the number of searches the data appeared in, number of access requests, how frequently users clicked through to the DCC’s own interface, how it is used in publications that cite the data, or the tools that are developed to interact with the data. They will primarily interact with the data monitoring system via a point and click interface, viewing (and saving) summary statistics in the form of rendered graphs and figures. However they would appreciate the ability to automatically pull statistics via a command line interface (CLI) for use in automatically generating reports and analyzing user trends. Most such users utilize resources such as Google Analytics for this purpose. However, in most cases, tools such as Google Analytics are limited. Key activities, for example, file downloads are not available since they require specialized code.
 
