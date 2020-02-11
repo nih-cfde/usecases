@@ -6,4 +6,6 @@ parent: Objectives
 has_children: false
 ---
 
-Obtain data to help describe research opportunities (e.g., for a grant), apply for dbGaP, or pass on to computational biologists for analysis.
+Obtain as many datasets as possible about a biological question to help describe
+research opportunities (e.g., for a grant), apply for dbGaP, form hypotheses, or
+to pass on to computational biologists for analysis.
