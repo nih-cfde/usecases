@@ -1,6 +1,6 @@
 ---
 layout: default
-title: multi-monitoring
+title: multi-comparison
 nav_order: 2
 parent: Objectives
 has_children: false
