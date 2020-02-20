@@ -2,8 +2,7 @@
 layout: default
 title: Summary Statistics- User Focused
 nav_order: 7
-parent: Summary Statistics
-grand_parent: Summaries
+parent: Summaries
 has_children: false
 ---
 
