@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Compare across DCCs
+title: Compare across DCCs- Policy
 nav_order: 4
 parent: Summaries
 has_children: true
 ---
 
-**Persona:** [Data Custodian](../personas/data-custodian).
+**Persona:** [Program Officer](../personas/program-officer).
 
 **Objective:** [Multiple DCC Comparison](../objectives/multi-dcc-comparison)
 
