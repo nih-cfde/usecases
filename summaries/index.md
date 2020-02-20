@@ -7,4 +7,4 @@ has_children: true
 
 # Summaries
 
-User focused and tech focused
+A high-level, non-technical description of an entire Use Case.

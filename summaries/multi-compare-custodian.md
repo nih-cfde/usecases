@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Compare across DCCs- Policy
+title: Compare across DCCs
 nav_order: 4
 parent: Summaries
-has_children: true
+has_children: false
 ---
 
 **Persona:** [Program Officer](../personas/program-officer).
