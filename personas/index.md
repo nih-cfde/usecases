@@ -5,4 +5,6 @@ nav_order: 4
 has_children: true
 ---
 
-# Personas!
+# Persona
+
+An archetypal description of type of user
