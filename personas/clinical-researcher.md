@@ -6,7 +6,7 @@ parent: Personas
 has_children: false
 ---
 
-This user understands biology, and is comfortable with point and click interfaces,
+This end user understands biology, and is comfortable with point and click interfaces,
 but does not use the command line or know any programming languages.
 
 ### Clinical Researcher

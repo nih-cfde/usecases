@@ -6,7 +6,7 @@ parent: Personas
 has_children: false
 ---
 
-This user understands computation, and is comfortable with the command line interface (CLI) and at least one other programming language, however they are not experts in biology.
+This end user understands computation, and is comfortable with the command line interface (CLI) and at least one other programming language, however they are not experts in biology.
 
 ### Data Scientist
 

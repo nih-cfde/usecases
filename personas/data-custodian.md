@@ -6,7 +6,7 @@ parent: Personas
 has_children: false
 ---
 
-This user owns or is a custodian of raw data, pipelines, portal, tools and/or processed data.
+This user owns or is a custodian of raw data, pipelines, portal, tools and/or processed data. They are usually a DCC PI.
 
 ### Data Custodian
 
