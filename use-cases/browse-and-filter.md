@@ -7,9 +7,6 @@ has_children: false
 ---
 # Browse and Filter
 
-## Use Case Components
-
-
 **Persona:** [Clinical Researcher](../personas/clinical-researcher).
 
 **Objective:** [Multiple DCC Comparison](../objectives/multi-dcc-comparison)
@@ -42,22 +39,31 @@ her final table to her postdoc, Lacey, who will do the actual analysis.
 #### Access CFDE portal
 
 -   The portal will support GUI web access to end users
--   The portal
+or ?
+-   Use eRA Commons ID to access the CFDE portal to generate a user interface with access to public Common Fund metadata
 
 #### Search/filter data by anatomical site
 
--   The portal shall support the selection of a CF Program of interest.
+-   The portal shall support the selection of an anatomical term of interest.
+or ?
+-   Use a list of phenotype concepts and the CFDE portal to search metadata and generate a subset of dataset identifiers for multiple CF Programs that matches researcher interests
 
 #### Search/filter data by data type
 
 -   The C2M2 model shall support information relating datatypes to CF programs
 -   The catalog shall store information relating datatypes to CF programs
+or ?
+-   Use a list of datatype concepts and the CFDE portal to search metadata and generate a list of dataset identifiers for multiple CF Programs.
 
 #### Visualize a table of all datasets that match query, by CF Program
 
 -   The catalog shall store information relating datasets to CF programs
 -   The C2M2 model shall support information relating datasets to CF programs
 -   The portal will render tables to display filtered data
+
+or ?
+
+-   Use an interactive graphical display (e.g. table and plots) to report on matching queries and their metadata.
 
 #### Share table with collaborator
 
