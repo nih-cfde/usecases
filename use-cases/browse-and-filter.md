@@ -32,36 +32,36 @@ be useful for replicating Pam’s earlier findings in a new cohort.
 Pam uses the results to start a dbGaP access request for her lab. She also sends
 her final table to her postdoc, Lacey, who will do the actual analysis.
 
-#  User Tasks
+# [](#user-tasks)User Tasks
 
--   Access CFDE portal
--   Search/filter data by anatomical site
--   Search/filter data by data type
--   Visualize a table of all datasets that match query, by CF Program
--   Share table with collaborator
+-   (Access CFDE portal)[#access-CFDE-portal]
+-   (Search/filter data by anatomical site)[#search-filter-data-by-anatomical-site]
+-   (Search/filter data by data type)[#search-filter-data-by-data-type]
+-   (Visualize a table of all datasets that match query, by CF Program)[#visualize-a-table-of-all-datasets]
+-   (Share table with collaborator)[#share-table-with-collaborator]
 
-#  Requirements
+# [](#requirements)Requirements
 
-## Access CFDE portal
+## [](#access-CFDE-portal)Access CFDE portal
 
-    - The portal will support GUI web access to end users
-    - The portal
+-   The portal will support GUI web access to end users
+-   The portal
 
-## Search/filter data by anatomical site
+## [](#search-filter-data-by-anatomical-site)Search/filter data by anatomical site
 
-    - The portal shall support the selection of a CF Program of interest.
+-   The portal shall support the selection of a CF Program of interest.
 
-## Search/filter data by data type
+## [](#search-filter-data-by-data-type)Search/filter data by data type
 
-    - The C2M2 model shall support information relating datatypes to CF programs
-    - The catalog shall store information relating datatypes to CF programs
+-   The C2M2 model shall support information relating datatypes to CF programs
+-   The catalog shall store information relating datatypes to CF programs
 
-## Visualize a table of all datasets that match query, by CF Program
+## [](#visualize-a-table-of-all-datasets)Visualize a table of all datasets that match query, by CF Program
 
-    - The catalog shall store information relating datasets to CF programs
-    - The C2M2 model shall support information relating datasets to CF programs
-    - The portal will render tables to display filtered data
+-   The catalog shall store information relating datasets to CF programs
+-   The C2M2 model shall support information relating datasets to CF programs
+-   The portal will render tables to display filtered data
 
-## Share table with collaborator
+## [](#share-table-with-collaborator)Share table with collaborator
 
     - Tables rendered in the portal are downloadable as csv
