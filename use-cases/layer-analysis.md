@@ -2,7 +2,7 @@
 layout: default
 title: Layer Analysis
 nav_order: 3
-parent: Use Cases
+parent: Summaries
 has_children: false
 ---
 

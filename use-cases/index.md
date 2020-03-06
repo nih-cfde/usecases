@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summaries
+title: Use Cases
 nav_order: 6
 has_children: true
 ---

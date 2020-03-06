@@ -2,7 +2,7 @@
 layout: default
 title: Compare across DCCs
 nav_order: 4
-parent: Use Cases
+parent: Summaries
 has_children: false
 ---
 

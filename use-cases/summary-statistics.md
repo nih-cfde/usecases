@@ -2,7 +2,7 @@
 layout: default
 title: Summary Statistics
 nav_order: 4
-parent: Use Cases
+parent: Summaries
 has_children: true
 ---
 
