@@ -29,7 +29,7 @@ her final table to her postdoc, Lacey, who will do the actual analysis.
 -   [Search/filter data by anatomical site](#searchfilter-data-sets-by-phenotypic-terms)
 -   [Search/filter data by data type terms](#searchfilter-data-sets-by-data-type-terms)
 -   [Search within dataset descriptions](#search-within-dataset-descriptions)
--   [Visualize a table of all datasets that match query, by CF Program](#visualize-a-table-of-all-datasets-that-match-query-by-cf-program)
+-   [Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
 -   [Explore Program links](#explore-program-links)
 -   [Share table with collaborator](#share-table-with-collaborator)
 
@@ -64,7 +64,7 @@ or ?
 
 -   Use a disease term and search capability to search within metadata and generate a subset of dataset identifiers for multiple CF Programs.
 
-#### Visualize a table of all datasets that match query, by CF Program
+#### Visualize a table of all datasets that match query
 
 -   The catalog shall store information relating datasets to CF programs
 -   The C2M2 model shall support information relating datasets to CF programs

@@ -2,15 +2,18 @@
 layout: default
 title: NIH Compare across DCCs
 nav_order: 2
-parent: Summaries
+parent: Use Cases
 has_children: false
 ---
+
+# Explore data availability to build policy
 
 **Persona:** [Program Officer](../personas/program-officer).
 
 **Objective:** [Multiple DCC Comparison](../objectives/multi-dcc-comparison)
 
-### Explore data availability to build policy
+### Summary
+
 Betsy is a leader at the Common Fund, and wants to build summary tables of
 Common Fund assets for use in both tracking progress and for finding gaps that
 should be filled by future initiatives. She would like to use the CFDE dashboard
@@ -30,7 +33,7 @@ will automatically render her data in a type of multidimensional venn diagram.
 -   [Authorized Access to CFDE portal](#access-cfde-portal)
 -   [Search/filter CF Programs by phenotypic terms](#searchfilter-common-fund-programs-by-phenotypic-terms)
 -   [Search/filter CF Programs by data type terms](#search-filter-common-fund-programs-by-data-type terms)
--   [Visualize a table of all datasets that match query, by CF Program](#visualize-a-table-of-all-datasets)
+-   [Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
 -   [Export a csv of results](#export-a-csv-of-results)
 
 ### Requirements
@@ -60,7 +63,7 @@ or ?
 
 -   Use a list of datatype concepts and the CFDE portal to search metadata and generate a list of CF Programs that matches researcher interests
 
-#### Visualize a table of all datasets that match query, by CF Program
+#### Visualize a table of all datasets that match query
 
 -   The catalog shall store information relating datasets to CF programs
 -   The C2M2 model shall support information relating datasets to CF programs
