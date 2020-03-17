@@ -2,7 +2,7 @@
 layout: default
 title: Summary Statistics
 nav_order: 3
-parent: Summaries
+parent: Use Cases
 has_children: true
 ---
 # Monitor Data Releases as a Data Custodian
