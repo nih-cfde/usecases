@@ -5,4 +5,6 @@ nav_order: 4
 has_children: true
 ---
 
-# Objectives!
+# Objectives
+
+A scientific or administrative goal.
