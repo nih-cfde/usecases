@@ -1,6 +1,6 @@
 ---
 layout: default
-title: naive-clinical-researcher
+title: cfde-clinical-researcher
 nav_order: 4
 parent: Personas
 has_children: false
@@ -8,7 +8,7 @@ has_children: false
 
 This end user understands biology, and is comfortable with point and click interfaces,
 but does not use the command line or know any programming languages. They have
-no ongoing association with the CFDE.
+associated a credential with the CFDE.
 
 ### Clinical Researcher
 
@@ -22,5 +22,5 @@ data scientist.
 
 Users with this persona:
 
--   Have a government issued secure access credentials
+-   Has credentialed access to the CFDE
 -   Do not require administrative access to an interface

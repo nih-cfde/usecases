@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Use Cases
-nav_order: 6
+nav_order: 3
 has_children: true
 ---
 
-# Summaries
+# Use Cases
 
 A high-level, non-technical description of an entire Use Case.
