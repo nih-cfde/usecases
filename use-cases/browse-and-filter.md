@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Portal Browse and Filter
+title: Researcher Browse and Filter
 nav_order: 1
 parent: Use Cases
 has_children: false
 ---
-# Use Case 001 Browse and Filter
+# Use Case UC0001 Researcher Browse and Filter
 
 **Persona:** [Clinical Researcher](../personas/clinical-researcher).
 
@@ -25,46 +25,49 @@ her final table to her postdoc, Lacey, who will do the actual analysis.
 
 ### User Tasks
 
--   [0001 Access CFDE portal](#access-cfde-portal)
--   [0006 Search/filter data sets by phenotypic terms](#searchfilter-data-sets-by-phenotypic-terms)
--   [0005 Search/filter data by data type terms](#searchfilter-data-sets-by-data-type-terms)
--   [0004 Search within dataset descriptions](#search-within-dataset-descriptions)
--   [0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
--   [0002 Explore Program links](#explore-program-links)
--   [0003 Export a file of results](#export-a-file-of-results)
+-   [T0001 Access CFDE interface](#access-cfde-interface)
+-   [T0006 Search/filter data sets by phenotypic terms](#searchfilter-data-sets-by-phenotypic-terms)
+-   [T0005 Search/filter data by type terms](#searchfilter-data-sets-by-type-terms)
+-   [T0004 Search within dataset descriptions](#search-within-dataset-descriptions)
+-   [T0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
+-   [T0002 Explore Program links](#explore-program-links)
+-   [T0003 Export a file of results](#export-a-file-of-results)
 
 ### Requirements
 
-#### 0001 Access CFDE portal
+#### T0001 Access CFDE interface
 
--   The portal will support GUI web access to end users
-
-
-#### 0006 Search/filter data sets by phenotypic terms
-
--   The portal shall support the selection of an anatomical term of interest
+-   R00001 The interface will support GUI web access to end users
 
 
-#### 0005 Search/filter data sets by data type terms
+#### T0006 Search/filter data sets by phenotypic terms
 
--   The C2M2 model shall support information relating datatypes to CF programs
--   The catalog shall store information relating datatypes to CF programs
+-   R00003 The interface shall support the selection of an Uberon term of interest
+-   R00004 The C2M2 model shall support information relating Uberon terms to CF programs
+-   R00005 The catalog shall store information relating Uberon terms to CF programs
 
 
-#### 0004 Search within dataset descriptions
+#### T0005 Search/filter data sets by type terms
 
--   The portal will support free text search of results
+-   R00006 The interface shall support the selection of an assay type term of interest
+-   R00007 The C2M2 model shall support information relating assay types to CF programs
+-   R00005 The catalog shall store information relating assay types to CF programs
 
-#### 0010 Visualize a table of all datasets that match query
 
--   The catalog shall store information relating datasets to CF programs
--   The C2M2 model shall support information relating datasets to CF programs
--   The portal will render tables to display filtered data
+#### T0004 Search within dataset descriptions
 
-#### 0002 Explore Program links
+-   R00006 The interface will support free text search of results
 
--   The portal will support links to original data sources within the results
+#### T0010 Visualize a table of all datasets that match query
 
-#### 0003 Export a file of results
+-   R00007 The catalog shall store information relating datasets to CF programs
+-   R00008 The C2M2 model shall support information relating datasets to CF programs
+-   R00009 The interface will render tables to display filtered data
 
--   The portal shall support end user download of tables and figures in common formats
+#### T0002 Explore Program links
+
+-   R00010 The interface will support links to original data sources within the results
+
+#### T0003 Export a file of results
+
+-   R000011 The interface shall support end user download of tables and figures in common formats

@@ -6,7 +6,7 @@ parent: Use Cases
 has_children: false
 ---
 
-# Use Case 002 Explore data availability to build policy
+# Use Case UC0002 Explore data availability to build policy
 
 **Persona:** [Program Officer](../personas/program-officer).
 
@@ -21,44 +21,47 @@ to download simple tables or graphs that show what assets exist, and where.
 
 Using a web browser, Jon uses a point and click interface to get a matrix of
 Uberon tissue terms by DCC. With a few more clicks, they gets similar tables showing
-Species, and Experiment Types by Program.
+Species, and Assay Types by Program.
 
 Since these are simple binary matrices, Jon can plot the data in almost any
 piece of plotting software. Since they would like to see what terms are most broadly
-and most infrequently found in the Common Fund, they opts for using UpSet, which
+and most infrequently found in the Common Fund, they opt for using UpSet, which
 will automatically render her data in a type of multidimensional venn diagram.
 
 ### User Tasks
 
--   [0001 Access to CFDE portal](#access-cfde-portal)
--   [0006 Search/filter CF Programs by phenotypic terms](#searchfilter-common-fund-programs-by-phenotypic-terms)
--   [0005 Search/filter CF Programs by data type terms](#search-filter-common-fund-programs-by-data-type terms)
--   [0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
--   [0003 Export a file of results](#export-a-file-of-results)
+-   [T0001 Access to CFDE portal](#access-cfde-portal)
+-   [T0006 Search/filter CF Programs by phenotypic terms](#searchfilter-common-fund-programs-by-phenotypic-terms)
+-   [T0005 Search/filter CF Programs by type terms](#search-filter-common-fund-programs-by-type terms)
+-   [T0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
+-   [T0003 Export a file of results](#export-a-file-of-results)
 
 ### Requirements
 
-#### 0001 Access CFDE portal
+#### T0001 Access CFDE interface
 
--   The portal will support GUI web access to end users
--   The portal will support user authentication
+-   R00001 The interface will support GUI web access to end users
+-   R00002 The interface will support user authentication
 
-#### 0006 Search/filter Common Fund Programs by phenotypic terms
+#### T0006 Search/filter Common Fund Programs by phenotypic terms
 
--   The portal shall support the selection of an anatomical term of interest.
+-   The portal shall support the selection of an Uberon term of interest
+-   The portal shall support the selection of an Species term of interest
+-   The portal shall support the selection of an Assay Type term of interest
 
-#### 0005 Search/filter Common Fund Programs by data type terms
+
+#### T0005 Search/filter Common Fund Programs by type terms
 
 -   The C2M2 model shall support information relating datatypes to CF programs
 -   The catalog shall store information relating datatypes to CF programs
 
-#### 0010 Visualize a table of all datasets that match query
+#### T0010 Visualize a table of all datasets that match query
 
 -   The catalog shall store information relating datasets to CF programs
 -   The C2M2 model shall support information relating datasets to CF programs
 -   The portal will render tables to display filtered data
 
 
-#### 0003 Export a file of results
+#### T0003 Export a file of results
 
 -   The portal shall support end user download of tables and figures in common formats

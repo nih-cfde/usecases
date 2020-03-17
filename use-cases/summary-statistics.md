@@ -5,7 +5,7 @@ nav_order: 3
 parent: Use Cases
 has_children: true
 ---
-# Use Case 003 Monitor Data Releases as a Data Custodian
+# Use Case UC0003 Monitor Data Releases as a Data Custodian
 
 **Persona:** [Data Custodian](../personas/data-custodian).
 
@@ -24,36 +24,36 @@ statistics have changed over the previous year.
 
 ### User Tasks
 
--   [0001 Access to CFDE portal](#access-cfde-portal)
--   [0007 Summarize all datatypes hosted by CF Program X](#summarize-all-datatypes-hosted-by-cf-program-x)
--   [0009 Summarize FAIRness scores by CF Program X](#summarize-fairness-scores-by-cf-program-x)
--   [0008 Summarize FAIRness scores by CF Program X over time](#summarize-fairness-scores-by-cf-program-x-over-time)
--   [0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
--   [0003 Export a file of results](#export-a-file-of-results)
+-   [T0001 Access to CFDE interface](#access-cfde-interface)
+-   [T0007 Summarize all datatypes hosted by CF Program X](#summarize-all-datatypes-hosted-by-cf-program-x)
+-   [T0009 Summarize FAIRness scores by CF Program X](#summarize-fairness-scores-by-cf-program-x)
+-   [T0008 Summarize FAIRness scores by CF Program X over time](#summarize-fairness-scores-by-cf-program-x-over-time)
+-   [T0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
+-   [T0003 Export a file of results](#export-a-file-of-results)
 
 ### Requirements
 
-#### 0001 Access CFDE portal
+#### T0001 Access CFDE interface
 
--   The portal will support GUI web access to end users
--   The portal will support user authentication
+-   R00001 The interface will support GUI web access to end users
+-   R00012 The interface will support user authentication
 
 
-#### 0007 Summarize all datatypes hosted by CF Program X
+#### T0007 Summarize all datatypes hosted by CF Program X
 
 -   The portal shall support the selection of a CF Program of interest
 -   The C2M2 model shall support information relating datatypes to CF programs
 -   The catalog shall store information relating datatypes to CF programs
 
 
-#### 0009 Summarize FAIRness scores by CF Program X
+#### T0009 Summarize FAIRness scores by CF Program X
 
 -   The portal shall support the selection of a CF Program of interest
 -   The C2M2 model shall support information relating FAIR metrics to CF programs
 -   The catalog shall store information relating FAIR metrics to CF programs
 
 
-#### 0008 Summarize FAIRness scores by CF Program X over time
+#### T0008 Summarize FAIRness scores by CF Program X over time
 
 -   The portal shall support the selection of a CF Program of interest
 -   The portal shall support the selection of a time period of interest
@@ -61,11 +61,11 @@ statistics have changed over the previous year.
 -   The catalog shall store information relating FAIR metrics to CF programs
 
 
-#### 0010 Visualize a table of all datasets that match query
+#### T0010 Visualize a table of all datasets that match query
 
 -   The portal will render tables and plots to display filtered data
 
 
-#### 0003 Export a file of results
+#### T0003 Export a file of results
 
 -   The portal shall support end user download of tables and figures in common formats
