@@ -16,16 +16,16 @@ has_children: false
 
 Jon is a leader at the Common Fund, and wants to build summary tables of
 Common Fund assets for use in both tracking progress and for finding gaps that
-should be filled by future initiatives. he would like to use the CFDE dashboard
+should be filled by future initiatives. They would like to use the CFDE dashboard
 to download simple tables or graphs that show what assets exist, and where.
 
 Using a web browser, Jon uses a point and click interface to get a matrix of
-Uberon tissue terms by DCC. With a few more clicks, he gets similar tables showing
+Uberon tissue terms by DCC. With a few more clicks, they gets similar tables showing
 Species, and Experiment Types by Program.
 
 Since these are simple binary matrices, Jon can plot the data in almost any
-piece of plotting software. Since he would like to see what terms are most broadly
-and most infrequently found in the Common Fund, he opts for using UpSet, which
+piece of plotting software. Since they would like to see what terms are most broadly
+and most infrequently found in the Common Fund, they opts for using UpSet, which
 will automatically render her data in a type of multidimensional venn diagram.
 
 ### User Tasks
