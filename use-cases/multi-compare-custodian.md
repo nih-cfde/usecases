@@ -6,7 +6,7 @@ parent: Use Cases
 has_children: false
 ---
 
-# Explore data availability to build policy
+# Use Case 002 Explore data availability to build policy
 
 **Persona:** [Program Officer](../personas/program-officer).
 
