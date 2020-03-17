@@ -5,7 +5,7 @@ nav_order: 1
 parent: Use Cases
 has_children: false
 ---
-# Use Case Browse and Filter
+# Use Case 001 Browse and Filter
 
 **Persona:** [Clinical Researcher](../personas/clinical-researcher).
 
