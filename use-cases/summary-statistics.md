@@ -24,36 +24,36 @@ statistics have changed over the previous year.
 
 ### User Tasks
 
--   [Access to CFDE portal](#access-cfde-portal)
--   [Summarize all datatypes hosted by CF Program X](#summarize-all-datatypes-hosted-by-cf-program-x)
--   [Summarize FAIRness scores by CF Program X](#summarize-fairness-scores-by-cf-program-x)
--   [Summarize FAIRness scores by CF Program X over time](#summarize-fairness-scores-by-cf-program-x-over-time)
--   [Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
--   [Export a file of results](#export-a-file-of-results)
+-   [0001 Access to CFDE portal](#access-cfde-portal)
+-   [0007 Summarize all datatypes hosted by CF Program X](#summarize-all-datatypes-hosted-by-cf-program-x)
+-   [0009 Summarize FAIRness scores by CF Program X](#summarize-fairness-scores-by-cf-program-x)
+-   [0008 Summarize FAIRness scores by CF Program X over time](#summarize-fairness-scores-by-cf-program-x-over-time)
+-   [0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
+-   [0003 Export a file of results](#export-a-file-of-results)
 
 ### Requirements
 
-#### Access CFDE portal
+#### 0001 Access CFDE portal
 
 -   The portal will support GUI web access to end users
 -   The portal will support user authentication
 
 
-#### Summarize all datatypes hosted by CF Program X
+#### 0007 Summarize all datatypes hosted by CF Program X
 
 -   The portal shall support the selection of a CF Program of interest
 -   The C2M2 model shall support information relating datatypes to CF programs
 -   The catalog shall store information relating datatypes to CF programs
 
 
-#### Summarize FAIRness scores by CF Program X
+#### 0009 Summarize FAIRness scores by CF Program X
 
 -   The portal shall support the selection of a CF Program of interest
 -   The C2M2 model shall support information relating FAIR metrics to CF programs
 -   The catalog shall store information relating FAIR metrics to CF programs
 
 
-#### Summarize FAIRness scores by CF Program X over time
+#### 0008 Summarize FAIRness scores by CF Program X over time
 
 -   The portal shall support the selection of a CF Program of interest
 -   The portal shall support the selection of a time period of interest
@@ -61,11 +61,11 @@ statistics have changed over the previous year.
 -   The catalog shall store information relating FAIR metrics to CF programs
 
 
-#### Visualize a table of all datasets that match query
+#### 0010 Visualize a table of all datasets that match query
 
 -   The portal will render tables and plots to display filtered data
 
 
-#### Export a file of results
+#### 0003 Export a file of results
 
 -   The portal shall support end user download of tables and figures in common formats

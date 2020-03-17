@@ -30,35 +30,35 @@ will automatically render her data in a type of multidimensional venn diagram.
 
 ### User Tasks
 
--   [Access to CFDE portal](#access-cfde-portal)
--   [Search/filter CF Programs by phenotypic terms](#searchfilter-common-fund-programs-by-phenotypic-terms)
--   [Search/filter CF Programs by data type terms](#search-filter-common-fund-programs-by-data-type terms)
--   [Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
--   [Export a file of results](#export-a-file-of-results)
+-   [0001 Access to CFDE portal](#access-cfde-portal)
+-   [0006 Search/filter CF Programs by phenotypic terms](#searchfilter-common-fund-programs-by-phenotypic-terms)
+-   [0005 Search/filter CF Programs by data type terms](#search-filter-common-fund-programs-by-data-type terms)
+-   [0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
+-   [0003 Export a file of results](#export-a-file-of-results)
 
 ### Requirements
 
-#### Access CFDE portal
+#### 0001 Access CFDE portal
 
 -   The portal will support GUI web access to end users
 -   The portal will support user authentication
 
-#### Search/filter Common Fund Programs by phenotypic terms
+#### 0006 Search/filter Common Fund Programs by phenotypic terms
 
 -   The portal shall support the selection of an anatomical term of interest.
 
-#### Search/filter Common Fund Programs by data type terms
+#### 0005 Search/filter Common Fund Programs by data type terms
 
 -   The C2M2 model shall support information relating datatypes to CF programs
 -   The catalog shall store information relating datatypes to CF programs
 
-#### Visualize a table of all datasets that match query
+#### 0010 Visualize a table of all datasets that match query
 
 -   The catalog shall store information relating datasets to CF programs
 -   The C2M2 model shall support information relating datasets to CF programs
 -   The portal will render tables to display filtered data
 
 
-#### Export a file of results
+#### 0003 Export a file of results
 
 -   The portal shall support end user download of tables and figures in common formats
