@@ -11,10 +11,11 @@ has_children: false
 
 ## User Tasks
 
-[T0001 Access CFDE interface](../user-tasks/access-cfde-interface.md)
+-   [T0006 Search/filter data sets by phenotypic terms](../user-tasks/t0006-searchfilter-data-sets-by-phenotypic-terms.md)
+-   [T0011 Search/filter CF Programs by phenotypic terms](../user-tasks/t0011-searchfilter-common-fund-programs-by-phenotypic-terms.md)
 
 
 ## Use Cases
 
-[UC0001 Researcher Browse and Filter](../use-cases/browse-and-filter.md)
-[UC0002 NIH Compare across DCCs](../use-cases/multi-compare-custodian.md)
+-   [UC0001 Researcher Browse and Filter](../use-cases/browse-and-filter.md)
+-   [UC0002 NIH Compare across DCCs](../use-cases/multi-compare-custodian.md)

@@ -11,11 +11,11 @@ has_children: false
 
 ## User Tasks
 
-[T0005 Search/filter data sets by type terms](../user-tasks/searchfilter-data-sets-by-type-terms.md)
+-   [T0005 Search/filter data sets by type terms](../user-tasks/searchfilter-data-sets-by-type-terms.md)
 
 
 ## Use Cases
 
-[UC0001 Researcher Browse and Filter](../use-cases/browse-and-filter.md)
-[UC0002 NIH Compare across DCCs](../use-cases/multi-compare-custodian.md)
-[UC0003 Summary Statistics](../use-cases/summary-statistics.md)
+-   [UC0001 Researcher Browse and Filter](../use-cases/browse-and-filter.md)
+-   [UC0002 NIH Compare across DCCs](../use-cases/multi-compare-custodian.md)
+-   [UC0003 Summary Statistics](../use-cases/summary-statistics.md)

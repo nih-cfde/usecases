@@ -31,8 +31,8 @@ will automatically render her data in a type of multidimensional venn diagram.
 ### User Tasks
 
 -   [T0001 Access to CFDE portal](#access-cfde-portal)
--   [T0006 Search/filter CF Programs by phenotypic terms](#searchfilter-common-fund-programs-by-phenotypic-terms)
--   [T0005 Search/filter CF Programs by type terms](#search-filter-common-fund-programs-by-type terms)
+-   [T0011 Search/filter CF Programs by phenotypic terms](#searchfilter-common-fund-programs-by-phenotypic-terms)
+-   [T0012 Search/filter CF Programs by type terms](#search-filter-common-fund-programs-by-type-terms)
 -   [T0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
 -   [T0003 Export a file of results](#export-a-file-of-results)
 
@@ -40,17 +40,23 @@ will automatically render her data in a type of multidimensional venn diagram.
 
 #### T0001 Access CFDE interface
 
--   R00001 The interface will support GUI web access to end users
--   R00002 The interface will support user authentication
+-   [R00001 The interface will support GUI web access to end users](../requirements/r00001-the-interface-will-support-gui-web-access-to-end-users.md)
+-   [R00002 The interface will support user authentication](../requirements/r00002-the-interface-will-support-user-authentication.md)
 
-#### T0006 Search/filter Common Fund Programs by phenotypic terms
+#### T0011 Search/filter Common Fund Programs by phenotypic terms
 
--   The portal shall support the selection of an Uberon term of interest
+-   [R00003 The interface shall support the selection of an Uberon term of interest](../requirements/r00003-the-interface-shall-support-the-selection-of-an-uberon-term-of-interest.md)
+-   [R00004 The C2M2 model shall support information relating Uberon terms to CF programs](requirements/r00004-the-c2m2-model-shall-support-information-relating-uberon-terms-to-cf-programs.md)
+-   [R00005 The catalog shall store information relating Uberon terms to CF programs](../requirements/r00005-the-catalog-shall-store-information-relating-uberon-terms-to-cf-programs.md)
+
 -   The portal shall support the selection of an Species term of interest
--   The portal shall support the selection of an Assay Type term of interest
 
 
-#### T0005 Search/filter Common Fund Programs by type terms
+#### T0012 Search/filter Common Fund Programs by type terms
+
+-   [R00006 The interface shall support the selection of an assay type term of interest](../requirements/r00006-the-interface-shall-support-the-selection-of-an-assay-type-term-of-interest.md)
+-   [R00007 The C2M2 model shall support information relating assay types to CF programs](../requirements/r00007-the-c2m2-model-shall-support-information-relating-assay-types-to-cf-programs.md)
+-   [R00008 The catalog shall store information relating assay types to CF programs](../requirements/r00008-r00008-the-catalog-shall-store-information-relating-assay-types-to-cf-programs.md)
 
 -   The C2M2 model shall support information relating datatypes to CF programs
 -   The catalog shall store information relating datatypes to CF programs

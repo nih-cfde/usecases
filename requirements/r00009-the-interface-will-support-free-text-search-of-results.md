@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00001 The portal will support GUI web access to end users
+title: R00009 The interface will support free text search of results
 nav_order: 3
 parent: Requirements
 has_children: false
@@ -11,7 +11,7 @@ has_children: false
 
 ## User Tasks
 
--   [T0001 Access CFDE interface](../user-tasks/t0001-access-cfde-portal.md)
+-   [T0004 Search within dataset descriptions](../user-tasks/user-tasks/t0004-search-within-dataset-descriptions.md)
 
 
 ## Use Cases

@@ -11,10 +11,10 @@ has_children: false
 
 ## User Tasks
 
-[T0001 Access CFDE interface](../user-tasks/access-cfde-portal.md)
+-   [T0001 Access CFDE interface](../user-tasks/t0001-access-cfde-portal.md)
 
 
 ## Use Cases
 
-[UC0002 NIH Compare across DCCs](../use-cases/multi-compare-custodian.md)
-[UC0003 Summary Statistics](../use-cases/summary-statistics.md)
+-   [UC0002 NIH Compare across DCCs](../use-cases/multi-compare-custodian.md)
+-   [UC0003 Summary Statistics](../use-cases/summary-statistics.md)

@@ -35,9 +35,8 @@ statistics have changed over the previous year.
 
 #### T0001 Access CFDE interface
 
--   R00001 The interface will support GUI web access to end users
--   R00012 The interface will support user authentication
-
+-   [R00001 The interface will support GUI web access to end users](../requirements/r00001-the-interface-will-support-gui-web-access-to-end-users.md)
+-   [R00002 The interface will support user authentication](../requirements/r00002-the-interface-will-support-user-authentication.md)
 
 #### T0007 Summarize all datatypes hosted by CF Program X
 

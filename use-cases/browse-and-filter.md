@@ -37,37 +37,37 @@ her final table to her postdoc, Lacey, who will do the actual analysis.
 
 #### T0001 Access CFDE interface
 
--   R00001 The interface will support GUI web access to end users
+-   [R00001 The interface will support GUI web access to end users](../requirements/r00001-the-interface-will-support-gui-web-access-to-end-users.md)
 
 
 #### T0006 Search/filter data sets by phenotypic terms
 
--   R00003 The interface shall support the selection of an Uberon term of interest
--   R00004 The C2M2 model shall support information relating Uberon terms to CF programs
--   R00005 The catalog shall store information relating Uberon terms to CF programs
+-   [R00003 The interface shall support the selection of an Uberon term of interest](../requirements/r00003-the-interface-shall-support-the-selection-of-an-uberon-term-of-interest.md)
+-   [R00004 The C2M2 model shall support information relating Uberon terms to CF programs](requirements/r00004-the-c2m2-model-shall-support-information-relating-uberon-terms-to-cf-programs.md)
+-   [R00005 The catalog shall store information relating Uberon terms to CF programs](../requirements/r00005-the-catalog-shall-store-information-relating-uberon-terms-to-cf-programs.md)
 
 
 #### T0005 Search/filter data sets by type terms
 
--   R00006 The interface shall support the selection of an assay type term of interest
--   R00007 The C2M2 model shall support information relating assay types to CF programs
--   R00005 The catalog shall store information relating assay types to CF programs
+-   [R00006 The interface shall support the selection of an assay type term of interest](../requirements/r00006-the-interface-shall-support-the-selection-of-an-assay-type-term-of-interest.md)
+-   [R00007 The C2M2 model shall support information relating assay types to CF programs](../requirements/r00007-the-c2m2-model-shall-support-information-relating-assay-types-to-cf-programs.md)
+-   [R00008 The catalog shall store information relating assay types to CF programs](../requirements/r00008-r00008-the-catalog-shall-store-information-relating-assay-types-to-cf-programs.md)
 
 
 #### T0004 Search within dataset descriptions
 
--   R00006 The interface will support free text search of results
+-   [R00009 The interface will support free text search of results](../requirements/r00009-the-interface-will-support-free-text-search-of-results.md)
 
 #### T0010 Visualize a table of all datasets that match query
 
--   R00007 The catalog shall store information relating datasets to CF programs
--   R00008 The C2M2 model shall support information relating datasets to CF programs
--   R00009 The interface will render tables to display filtered data
+-   R00010 The catalog shall store information relating datasets to CF programs
+-   R00011 The C2M2 model shall support information relating datasets to CF programs
+-   R00012 The interface will render tables to display filtered data
 
 #### T0002 Explore Program links
 
--   R00010 The interface will support links to original data sources within the results
+-   R00013 The interface will support links to original data sources within the results
 
 #### T0003 Export a file of results
 
--   R000011 The interface shall support end user download of tables and figures in common formats
+-   R000014 The interface shall support end user download of tables and figures in common formats
