@@ -8,4 +8,4 @@ has_children: false
 
 # Appears in:
 
-[Access CFDE Portal](../user-tasts/access-cfde-portal.md)
+[Access CFDE Portal](../user-tasks/access-cfde-portal.md)
