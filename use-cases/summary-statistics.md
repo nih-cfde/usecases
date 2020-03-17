@@ -5,7 +5,7 @@ nav_order: 3
 parent: Use Cases
 has_children: true
 ---
-# Monitor Data Releases as a Data Custodian
+# Use Case 003 Monitor Data Releases as a Data Custodian
 
 **Persona:** [Data Custodian](../personas/data-custodian).
 
