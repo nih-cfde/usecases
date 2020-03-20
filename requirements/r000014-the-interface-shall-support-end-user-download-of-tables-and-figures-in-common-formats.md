@@ -1,0 +1,21 @@
+---
+layout: default
+title: R00013 The interface will support links to original data sources within the results
+nav_order: 3
+parent: Requirements
+has_children: false
+---
+
+# Appears in:
+
+
+## User Tasks
+
+-   [T0003 Export a file of results](../user-tasks/user-tasks/user-tasks/t0003-export-a-file-of-results.md)
+
+
+## Use Cases
+
+-   [UC0001 Researcher Browse and Filter](../use-cases/browse-and-filter.md)
+-   [UC0002 NIH Compare across DCCs](../use-cases/multi-compare-custodian.md)
+-   [UC0003 Summary Statistics](../use-cases/summary-statistics.md)

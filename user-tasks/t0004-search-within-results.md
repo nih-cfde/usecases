@@ -1,6 +1,6 @@
 ---
 layout: default
-title: T0004 Search within dataset descriptions
+title: T0004 Search within results
 nav_order: 3
 parent: User Tasks
 has_children: false

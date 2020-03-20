@@ -33,7 +33,7 @@ will automatically render her data in a type of multidimensional venn diagram.
 -   [T0001 Access to CFDE portal](#access-cfde-portal)
 -   [T0011 Search/filter CF Programs by phenotypic terms](#searchfilter-common-fund-programs-by-phenotypic-terms)
 -   [T0012 Search/filter CF Programs by type terms](#search-filter-common-fund-programs-by-type-terms)
--   [T0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
+-   [T0010 Visualize a table of all projects that match query](#visualize-a-table-of-all-projects-that-match-query)
 -   [T0003 Export a file of results](#export-a-file-of-results)
 
 ### Requirements
@@ -61,13 +61,12 @@ will automatically render her data in a type of multidimensional venn diagram.
 -   The C2M2 model shall support information relating datatypes to CF programs
 -   The catalog shall store information relating datatypes to CF programs
 
-#### T0010 Visualize a table of all datasets that match query
+#### T0010 Visualize a table of all projects that match query
 
--   The catalog shall store information relating datasets to CF programs
--   The C2M2 model shall support information relating datasets to CF programs
--   The portal will render tables to display filtered data
-
+-   The catalog shall store information relating projects to CF programs
+-   The C2M2 model shall support information relating projects to CF programs
+-   [R00012 The interface will render tables and plots to display filtered data](../requirements/r00012-the-interface-will-render-tables-and-plots-to-display-filtered-data.md)
 
 #### T0003 Export a file of results
 
--   The portal shall support end user download of tables and figures in common formats
+-   [R000014 The interface shall support end user download of tables and figures in common formats](../requirements/r000014-the-interface-shall-support-end-user-download-of-tables-and-figures-in-common-formats.md)

@@ -62,9 +62,8 @@ statistics have changed over the previous year.
 
 #### T0010 Visualize a table of all datasets that match query
 
--   The portal will render tables and plots to display filtered data
-
+-   [R00012 The interface will render tables and plots to display filtered data](../requirements/r00012-the-interface-will-render-tables-and-plots-to-display-filtered-data.md)
 
 #### T0003 Export a file of results
 
--   The portal shall support end user download of tables and figures in common formats
+-   [R000014 The interface shall support end user download of tables and figures in common formats](../requirements/r000014-the-interface-shall-support-end-user-download-of-tables-and-figures-in-common-formats.md)

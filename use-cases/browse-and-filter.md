@@ -54,20 +54,20 @@ her final table to her postdoc, Lacey, who will do the actual analysis.
 -   [R00008 The catalog shall store information relating assay types to CF programs](../requirements/r00008-r00008-the-catalog-shall-store-information-relating-assay-types-to-cf-programs.md)
 
 
-#### T0004 Search within dataset descriptions
+#### T0004 Search within results
 
 -   [R00009 The interface will support free text search of results](../requirements/r00009-the-interface-will-support-free-text-search-of-results.md)
 
-#### T0010 Visualize a table of all datasets that match query
+#### T0010 Visualize a table of all projects that match query
 
--   R00010 The catalog shall store information relating datasets to CF programs
--   R00011 The C2M2 model shall support information relating datasets to CF programs
--   R00012 The interface will render tables to display filtered data
+-   [R00010 The catalog shall store information relating projects to CF programs](../requirements/r00010-the-catalog-shall-store-information-relating-projects-to-cf-programs.md)
+-   [R00011 The C2M2 model shall support information relating projects to CF programs](../requirements/r00011-the-c2m2-model-shall-support-information-relating-projects-to-cf-programs.md)
+-   [R00012 The interface will render tables and plots to display filtered data](../requirements/r00012-the-interface-will-render-tables-and-plots-to-display-filtered-data.md)
 
 #### T0002 Explore Program links
 
--   R00013 The interface will support links to original data sources within the results
+-   [R00013 The interface will support links to original data sources within the results](../requirements/r00013-the-interface-will-support-links-to-original-data-sources-within-the-results.md)
 
 #### T0003 Export a file of results
 
--   R000014 The interface shall support end user download of tables and figures in common formats
+-   [R000014 The interface shall support end user download of tables and figures in common formats](../requirements/r000014-the-interface-shall-support-end-user-download-of-tables-and-figures-in-common-formats.md)
