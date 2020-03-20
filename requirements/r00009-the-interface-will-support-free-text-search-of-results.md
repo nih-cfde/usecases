@@ -11,7 +11,7 @@ has_children: false
 
 ## User Tasks
 
--   [T0004 Search within dataset descriptions](../user-tasks/user-tasks/t0004-search-within-dataset-descriptions.md)
+-   [T0004 Search within dataset descriptions](../user-tasks/t0004-search-within-dataset-descriptions.md)
 
 
 ## Use Cases

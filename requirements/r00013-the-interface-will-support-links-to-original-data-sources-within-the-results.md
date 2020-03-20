@@ -11,7 +11,7 @@ has_children: false
 
 ## User Tasks
 
--   [T0002 Explore Program links](../user-tasks/user-tasks/t0002-explore-program-links.md)
+-   [T0002 Explore Program links](../user-tasks/t0002-explore-program-links.md)
 
 
 ## Use Cases

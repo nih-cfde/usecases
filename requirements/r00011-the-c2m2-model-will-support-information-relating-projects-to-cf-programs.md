@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00010 The catalog shall store information relating projects to CF programs
+title: R00011 The C2M2 model will support information relating projects to CF programs
 nav_order: 3
 parent: Requirements
 has_children: false
@@ -11,7 +11,7 @@ has_children: false
 
 ## User Tasks
 
--   [T0010 Visualize a table of all projects that match query](../user-tasks/user-tasks/t0010-visualize-a-table-of-all-projects-that-match-query.md)
+-   [T0005 Search/filter data sets by type terms](../user-tasks/searchfilter-data-sets-by-type-terms.md)
 
 
 ## Use Cases

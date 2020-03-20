@@ -38,27 +38,26 @@ statistics have changed over the previous year.
 -   [R00001 The interface will support GUI web access to end users](../requirements/r00001-the-interface-will-support-gui-web-access-to-end-users.md)
 -   [R00002 The interface will support user authentication](../requirements/r00002-the-interface-will-support-user-authentication.md)
 
-#### T0007 Summarize all datatypes hosted by CF Program X
+#### T0007 Summarize all assay types hosted by CF Program X
 
--   The portal shall support the selection of a CF Program of interest
--   The C2M2 model shall support information relating datatypes to CF programs
--   The catalog shall store information relating datatypes to CF programs
+-   [R00018 The interface will support the selection of a CF Program of interest](../requirements/r00018-the-interface-will-support-the-selection-of-a-cf-program-of-interest.md)
+-   [R00007 The C2M2 model will support information relating assay types to CF programs](../requirements/r00007-the-c2m2-model-will-support-information-relating-assay-types-to-cf-programs.md)
+-   [R00008 The catalog will store information relating assay types to CF programs](../requirements/r00008-r00008-the-catalog-will-store-information-relating-assay-types-to-cf-programs.md)
 
 
 #### T0009 Summarize FAIRness scores by CF Program X
 
--   The portal shall support the selection of a CF Program of interest
--   The C2M2 model shall support information relating FAIR metrics to CF programs
--   The catalog shall store information relating FAIR metrics to CF programs
+-   [R00018 The interface will support the selection of a CF Program of interest](../requirements/r00018-the-interface-will-support-the-selection-of-a-cf-program-of-interest.md)
+-   [R00019 The C2M2 model will support information relating FAIR metrics to CF programs](../requirements/r00019-the-c2m2-model-will-support-information-relating-fair-metrics-to-cf-programs.md)
+-   [R00020 The catalog will store information relating FAIR metrics to CF programs](../requirements/r00020-the-catalog-will-store-information-relating-fair-metrics-to-cf-programs/md)
 
 
 #### T0008 Summarize FAIRness scores by CF Program X over time
 
--   The portal shall support the selection of a CF Program of interest
--   The portal shall support the selection of a time period of interest
--   The C2M2 model shall support information relating FAIR metrics to CF programs
--   The catalog shall store information relating FAIR metrics to CF programs
-
+-   [R00018 The interface will support the selection of a CF Program of interest](../requirements/r00018-the-interface-will-support-the-selection-of-a-cf-program-of-interest.md)
+-   [R00021 The interface will support the selection of a time period of interest](../requirements/r00021-the-interface-will-support-the-selection-of-a-time-period-of-interest.md)
+-   [R00019 The C2M2 model will support information relating FAIR metrics to CF programs](../requirements/r00019-the-c2m2-model-will-support-information-relating-fair-metrics-to-cf-programs.md)
+-   [R00020 The catalog will store information relating FAIR metrics to CF programs](../requirements/r00020-the-catalog-will-store-information-relating-fair-metrics-to-cf-programs/md)
 
 #### T0010 Visualize a table of all datasets that match query
 
@@ -66,4 +65,4 @@ statistics have changed over the previous year.
 
 #### T0003 Export a file of results
 
--   [R000014 The interface shall support end user download of tables and figures in common formats](../requirements/r000014-the-interface-shall-support-end-user-download-of-tables-and-figures-in-common-formats.md)
+-   [R000014 The interface will support end user download of tables and figures in common formats](../requirements/r000014-the-interface-will-support-end-user-download-of-tables-and-figures-in-common-formats.md)

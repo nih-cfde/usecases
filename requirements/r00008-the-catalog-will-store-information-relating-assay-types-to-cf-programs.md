@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00006 The interface shall support the selection of an Assay Type term of interest
+title: R00008 The catalog will store information relating assay types to CF programs
 nav_order: 3
 parent: Requirements
 has_children: false
@@ -12,7 +12,8 @@ has_children: false
 ## User Tasks
 
 -   [T0005 Search/filter data sets by type terms](../user-tasks/searchfilter-data-sets-by-type-terms.md)
--   [T0012 Search/filter Common Fund Programs by type terms](../user-tasks/t0012-search-filter-common-fund-programs-by-type-terms.md)
+-   [T0007 Summarize all datatypes hosted by CF Program X](../user-tasks/t0007-summarize-all-datatypes-hosted-by-cf-program-x.md)
+
 
 ## Use Cases
 

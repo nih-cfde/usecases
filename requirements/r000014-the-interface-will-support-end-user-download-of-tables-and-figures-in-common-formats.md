@@ -11,7 +11,7 @@ has_children: false
 
 ## User Tasks
 
--   [T0003 Export a file of results](../user-tasks/user-tasks/user-tasks/t0003-export-a-file-of-results.md)
+-   [T0003 Export a file of results](../user-tasks/t0003-export-a-file-of-results.md)
 
 
 ## Use Cases

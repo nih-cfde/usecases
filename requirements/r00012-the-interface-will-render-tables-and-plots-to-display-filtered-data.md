@@ -11,7 +11,7 @@ has_children: false
 
 ## User Tasks
 
--   [T0010 Visualize a table of all projects that match query](../user-tasks/user-tasks/t0010-visualize-a-table-of-all-projects-that-match-query.md)
+-   [T0010 Visualize a table of all projects that match query](../user-tasks/t0010-visualize-a-table-of-all-projects-that-match-query.md)
 
 
 ## Use Cases

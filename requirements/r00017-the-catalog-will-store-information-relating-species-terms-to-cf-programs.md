@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00004 The C2M2 model shall support information relating Uberon terms to CF programs
+title: R00017 The catalog will store information relating species terms to CF programs
 nav_order: 3
 parent: Requirements
 has_children: false
@@ -11,10 +11,8 @@ has_children: false
 
 ## User Tasks
 
--   [T0006 Search/filter data sets by phenotypic terms](../user-tasks/t0006-searchfilter-data-sets-by-phenotypic-terms.md)
 -   [T0011 Search/filter CF Programs by phenotypic terms](../user-tasks/t0011-searchfilter-common-fund-programs-by-phenotypic-terms.md)
 
 ## Use Cases
 
--   [UC0001 Researcher Browse and Filter](../use-cases/browse-and-filter.md)
 -   [UC0002 NIH Compare across DCCs](../use-cases/multi-compare-custodian.md)

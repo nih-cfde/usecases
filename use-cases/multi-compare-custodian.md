@@ -45,28 +45,24 @@ will automatically render her data in a type of multidimensional venn diagram.
 
 #### T0011 Search/filter Common Fund Programs by phenotypic terms
 
--   [R00003 The interface shall support the selection of an Uberon term of interest](../requirements/r00003-the-interface-shall-support-the-selection-of-an-uberon-term-of-interest.md)
--   [R00004 The C2M2 model shall support information relating Uberon terms to CF programs](requirements/r00004-the-c2m2-model-shall-support-information-relating-uberon-terms-to-cf-programs.md)
--   [R00005 The catalog shall store information relating Uberon terms to CF programs](../requirements/r00005-the-catalog-shall-store-information-relating-uberon-terms-to-cf-programs.md)
-
--   The portal shall support the selection of an Species term of interest
+-   [R00003 The interface will support the selection of an Uberon term of interest](../requirements/r00003-the-interface-will-support-the-selection-of-an-uberon-term-of-interest.md)
+-   [R00004 The C2M2 model will support information relating Uberon terms to CF programs](requirements/r00004-the-c2m2-model-will-support-information-relating-uberon-terms-to-cf-programs.md)
+-   [R00005 The catalog will store information relating Uberon terms to CF programs](../requirements/r00005-the-catalog-will-store-information-relating-uberon-terms-to-cf-programs.md)
+-   [R00015 The interface will support the selection of a species term of interest](../requirements/r00015-the-interface-will-support-the-selection-of-a-species-term-of-interest.md)
+-   [R00016 The C2M2 model will support information relating species terms to CF programs](../requirements/r00016-the-c2m2-model-will-support-information-relating-species-terms-to-cf-programs.md)
+-   [R00017 The catalog will store information relating species terms to CF programs](../requirements/r00017-the-catalog-will-store-information-relating-species-terms-to-cf-programs.md)
 
 
 #### T0012 Search/filter Common Fund Programs by type terms
 
--   [R00006 The interface shall support the selection of an assay type term of interest](../requirements/r00006-the-interface-shall-support-the-selection-of-an-assay-type-term-of-interest.md)
--   [R00007 The C2M2 model shall support information relating assay types to CF programs](../requirements/r00007-the-c2m2-model-shall-support-information-relating-assay-types-to-cf-programs.md)
--   [R00008 The catalog shall store information relating assay types to CF programs](../requirements/r00008-r00008-the-catalog-shall-store-information-relating-assay-types-to-cf-programs.md)
-
--   The C2M2 model shall support information relating datatypes to CF programs
--   The catalog shall store information relating datatypes to CF programs
+-   [R00006 The interface will support the selection of an assay type term of interest](../requirements/r00006-the-interface-will-support-the-selection-of-an-assay-type-term-of-interest.md)
+-   [R00007 The C2M2 model will support information relating assay types to CF programs](../requirements/r00007-the-c2m2-model-will-support-information-relating-assay-types-to-cf-programs.md)
+-   [R00008 The catalog will store information relating assay types to CF programs](../requirements/r00008-r00008-the-catalog-will-store-information-relating-assay-types-to-cf-programs.md)
 
 #### T0010 Visualize a table of all projects that match query
 
--   The catalog shall store information relating projects to CF programs
--   The C2M2 model shall support information relating projects to CF programs
 -   [R00012 The interface will render tables and plots to display filtered data](../requirements/r00012-the-interface-will-render-tables-and-plots-to-display-filtered-data.md)
 
 #### T0003 Export a file of results
 
--   [R000014 The interface shall support end user download of tables and figures in common formats](../requirements/r000014-the-interface-shall-support-end-user-download-of-tables-and-figures-in-common-formats.md)
+-   [R000014 The interface will support end user download of tables and figures in common formats](../requirements/r000014-the-interface-will-support-end-user-download-of-tables-and-figures-in-common-formats.md)
