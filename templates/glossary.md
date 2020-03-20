@@ -8,7 +8,7 @@ nav_order: 1
 # Use Case Library Glossary
 {: .no_toc }
 
-A **Use Case* consists of an **Objective** and a **Persona** -
+A **Use Case** consists of an **Objective** and a **Persona** -
 a person who can have an **Objective**. These are combined into a **summary**
 of specific use for the CFDE, which can be achieved by a series
 of **user tasks**. Each **User Task** is single step in the users workflow.
