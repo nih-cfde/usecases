@@ -16,7 +16,7 @@ The technical infrastucture required
 to enable a **User Task** are it's **Requirements**. In most cases, what
 appears to the user as a single step actually is a multistep process to the
 computer doing the work, so any given **User Task** will likely have many **Requirements**.
-Both **user tasks** and **requirements** can be shared across *Use Cases*
+Both **user tasks** and **requirements** can be shared across **Use Cases**
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -28,7 +28,7 @@ Both **user tasks** and **requirements** can be shared across *Use Cases*
 
 
 
-![Use case library glossary image](../images/UseCaseTopDown.jpg)
+![Use case library glossary image](../images/Use  CaseTopDown.jpg)
 
 ## Definitions
 
