@@ -11,8 +11,8 @@ has_children: false
 
 ## User Tasks
 
--   [T0006 Search/filter data sets by phenotypic terms](../user-tasks/t0006-searchfilter-data-sets-by-phenotypic-terms.md)
--   [T0011 Search/filter CF Programs by phenotypic terms](../user-tasks/t0011-searchfilter-common-fund-programs-by-phenotypic-terms.md)
+-   [T0006 Search/filter data sets by anatomic terms](../user-tasks/t0006-searchfilter-data-sets-by-anatomic-terms.md)
+-   [T0011 Search/filter CF Programs by anatomic terms](../user-tasks/t0011-searchfilter-common-fund-programs-by-anatomic-terms.md)
 
 
 ## Use Cases
