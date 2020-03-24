@@ -42,7 +42,7 @@ statistics have changed over the previous year.
 
 -   [R00018 The interface will support the selection of a CF Program of interest](../requirements/r00018-the-interface-will-support-the-selection-of-a-cf-program-of-interest.md)
 -   [R00007 The C2M2 model will support information relating assay types to CF programs](../requirements/r00007-the-c2m2-model-will-support-information-relating-assay-types-to-cf-programs.md)
--   [R00008 The catalog will store information relating assay types to CF programs](../requirements/r00008-r00008-the-catalog-will-store-information-relating-assay-types-to-cf-programs.md)
+-   [R00008 The catalog will store information relating assay types to CF programs](../requirements/r00008-the-catalog-will-store-information-relating-assay-types-to-cf-programs.md)
 
 
 #### T0009 Summarize FAIRness scores by CF Program X

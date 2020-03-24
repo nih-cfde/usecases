@@ -43,7 +43,7 @@ her final table to her postdoc, Lacey, who will do the actual analysis.
 #### T0006 Search/filter data sets by phenotypic terms
 
 -   [R00003 The interface will support the selection of an Uberon term of interest](../requirements/r00003-the-interface-will-support-the-selection-of-an-uberon-term-of-interest.md)
--   [R00004 The C2M2 model will support information relating Uberon terms to CF programs](requirements/r00004-the-c2m2-model-will-support-information-relating-uberon-terms-to-cf-programs.md)
+-   [R00004 The C2M2 model will support information relating Uberon terms to CF programs](../requirements/r00004-the-c2m2-model-will-support-information-relating-uberon-terms-to-cf-programs.md)
 -   [R00005 The catalog will store information relating Uberon terms to CF programs](../requirements/r00005-the-catalog-will-store-information-relating-uberon-terms-to-cf-programs.md)
 
 
@@ -51,7 +51,7 @@ her final table to her postdoc, Lacey, who will do the actual analysis.
 
 -   [R00006 The interface will support the selection of an assay type term of interest](../requirements/r00006-the-interface-will-support-the-selection-of-an-assay-type-term-of-interest.md)
 -   [R00007 The C2M2 model will support information relating assay types to CF programs](../requirements/r00007-the-c2m2-model-will-support-information-relating-assay-types-to-cf-programs.md)
--   [R00008 The catalog will store information relating assay types to CF programs](../requirements/r00008-r00008-the-catalog-will-store-information-relating-assay-types-to-cf-programs.md)
+-   [R00008 The catalog will store information relating assay types to CF programs](../requirements/r00008-the-catalog-will-store-information-relating-assay-types-to-cf-programs.md)
 -   [R00010 The catalog will store information relating projects to CF programs](../requirements/r00010-the-catalog-will-store-information-relating-projects-to-cf-programs.md)
 -   [R00011 The C2M2 model will support information relating projects to CF programs](../requirements/r00011-the-c2m2-model-will-support-information-relating-projects-to-cf-programs.md)
 
@@ -70,4 +70,4 @@ her final table to her postdoc, Lacey, who will do the actual analysis.
 
 #### T0003 Export a file of results
 
--   [R000014 The interface will support end user download of tables and figures in common formats](../requirements/r000014-the-interface-will-support-end-user-download-of-tables-and-figures-in-common-formats.md)
+-   [R00014 The interface will support end user download of tables and figures in common formats](../requirements/r00014-the-interface-will-support-end-user-download-of-tables-and-figures-in-common-formats.md)
