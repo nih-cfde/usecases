@@ -30,7 +30,7 @@ will automatically render her data in a type of multidimensional venn diagram.
 
 ### User Tasks
 
--   [T0001 Access to CFDE portal](#access-cfde-portal)
+-   [T0001 Access CFDE interface](#access-cfde-interface)
 -   [T0011 Search/filter CF Programs by phenotypic terms](#searchfilter-common-fund-programs-by-phenotypic-terms)
 -   [T0012 Search/filter CF Programs by type terms](#search-filter-common-fund-programs-by-type-terms)
 -   [T0010 Visualize a table of all projects that match query](#visualize-a-table-of-all-projects-that-match-query)
