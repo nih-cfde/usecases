@@ -49,7 +49,7 @@ statistics have changed over the previous year.
 
 -   [R00018 The interface will support the selection of a CF Program of interest](../requirements/r00018-the-interface-will-support-the-selection-of-a-cf-program-of-interest.md)
 -   [R00019 The C2M2 model will support information relating FAIR metrics to CF programs](../requirements/r00019-the-c2m2-model-will-support-information-relating-fair-metrics-to-cf-programs.md)
--   [R00020 The catalog will store information relating FAIR metrics to CF programs](../requirements/r00020-the-catalog-will-store-information-relating-fair-metrics-to-cf-programs/md)
+-   [R00020 The catalog will store information relating FAIR metrics to CF programs](../requirements/r00020-the-catalog-will-store-information-relating-fair-metrics-to-cf-programs.md)
 
 
 #### T0008 Summarize FAIRness scores by CF Program X over time
@@ -57,7 +57,7 @@ statistics have changed over the previous year.
 -   [R00018 The interface will support the selection of a CF Program of interest](../requirements/r00018-the-interface-will-support-the-selection-of-a-cf-program-of-interest.md)
 -   [R00021 The interface will support the selection of a time period of interest](../requirements/r00021-the-interface-will-support-the-selection-of-a-time-period-of-interest.md)
 -   [R00019 The C2M2 model will support information relating FAIR metrics to CF programs](../requirements/r00019-the-c2m2-model-will-support-information-relating-fair-metrics-to-cf-programs.md)
--   [R00020 The catalog will store information relating FAIR metrics to CF programs](../requirements/r00020-the-catalog-will-store-information-relating-fair-metrics-to-cf-programs/md)
+-   [R00020 The catalog will store information relating FAIR metrics to CF programs](../requirements/r00020-the-catalog-will-store-information-relating-fair-metrics-to-cf-programs.md)
 
 #### T0010 Visualize a table of all datasets that match query
 
