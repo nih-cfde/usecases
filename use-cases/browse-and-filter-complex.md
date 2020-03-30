@@ -42,14 +42,17 @@ their final table to their postdoc, Lacey, who will do the actual analysis.
 #### T0001 Access CFDE interface
 
 -   [R00001 The interface will support GUI web access to end users](../requirements/r00001-the-interface-will-support-gui-web-access-to-end-users.md)
-
+-   [R00002 The interface will support user authentication](../requirements/r00002-the-interface-will-support-user-authentication.md)
 
 #### T0006 Search/filter data sets by phenotypic terms
 
 -   [R00003 The interface will support the selection of an Uberon term of interest](../requirements/r00003-the-interface-will-support-the-selection-of-an-uberon-term-of-interest.md)
 -   [R00004 The C2M2 model will support information relating Uberon terms to CF programs](../requirements/r00004-the-c2m2-model-will-support-information-relating-uberon-terms-to-cf-programs.md)
 -   [R00005 The catalog will store information relating Uberon terms to CF programs](../requirements/r00005-the-catalog-will-store-information-relating-uberon-terms-to-cf-programs.md)
-- new requirements: support disease terms
+-   new requirements: support disease terms
+-   new requirements: support checking some credential list about user access rights
+-   new requirements: Deriva access to controlled metadata
+-   new requirements: Deriva ATO to display controlled metadata
 
 #### T0005 Search/filter data sets by type terms
 
@@ -68,9 +71,11 @@ their final table to their postdoc, Lacey, who will do the actual analysis.
 
 -   [R00012 The interface will render tables and plots to display filtered data](../requirements/r00012-the-interface-will-render-tables-and-plots-to-display-filtered-data.md)
 -   new requirements support number of participants
--   new requirements support age ranges 
+-   new requirements support age ranges
 -   new requirements support consent data
-
+-   new requirements: support checking some credential list about user access rights
+-   new requirements: Deriva access to controlled metadata
+-   new requirements: Deriva ATO to display controlled metadata
 
 #### T0002 Explore Program links
 
