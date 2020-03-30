@@ -20,7 +20,7 @@ from each RNA-Seq dataset in the Common Fund that relates to Focal Cortical Dysp
 
 Pam logs on to the CFDE interface and searches for brain data, and then filters the results to those studies that used RNASeq on the cerebral cortex. They then search within these results
 for "FCD" or "Focal Cortical Dysplasia".
-Their initial search with cerebral cortex identifies GTEx and HuBMAP as containing information about gene expression in the cortex. Searching with FCD identifies KidsFirst cohorts that included this clinical finding. Pam follows links to the GTEx site, and quickly confirms that GeneX is expressed in the cerebral cortex. They then use the HuBMAP datasets identified by their search to examine expression of GeneX and the other genes in finer detail and discovers that GeneX is exclusively expressed in Cajal–Retzius cells in the cerebral cortex. Pam notes the additional data types available, number of participants, and age ranges and consent data for the relevant studies.
+Their initial search with cerebral cortex identifies GTEx and HuBMAP as containing information about gene expression in the cortex. Searching with FCD identifies Kids First cohorts that included this clinical finding. Pam follows links to the GTEx site, and quickly confirms that GeneX is expressed in the cerebral cortex. They then use the HuBMAP datasets identified by their search to examine expression of GeneX and the other genes in finer detail and discovers that GeneX is exclusively expressed in Cajal–Retzius cells in the cerebral cortex. Pam notes the additional data types available, number of participants, and age ranges and consent data for the relevant studies.
 
 Using links in these search results, Pam accesses the Program
 page for each dataset and requests access to the ones that fit their needs. They also send
@@ -49,7 +49,7 @@ their final table to their postdoc, Lacey, who will do the actual analysis.
 -   [R00003 The interface will support the selection of an Uberon term of interest](../requirements/r00003-the-interface-will-support-the-selection-of-an-uberon-term-of-interest.md)
 -   [R00004 The C2M2 model will support information relating Uberon terms to CF programs](../requirements/r00004-the-c2m2-model-will-support-information-relating-uberon-terms-to-cf-programs.md)
 -   [R00005 The catalog will store information relating Uberon terms to CF programs](../requirements/r00005-the-catalog-will-store-information-relating-uberon-terms-to-cf-programs.md)
-
+- new requirements: support disease terms
 
 #### T0005 Search/filter data sets by type terms
 
@@ -67,6 +67,10 @@ their final table to their postdoc, Lacey, who will do the actual analysis.
 #### T0010 Visualize a table of all projects that match query
 
 -   [R00012 The interface will render tables and plots to display filtered data](../requirements/r00012-the-interface-will-render-tables-and-plots-to-display-filtered-data.md)
+-   new requirements support number of participants
+-   new requirements support age ranges 
+-   new requirements support consent data
+
 
 #### T0002 Explore Program links
 
