@@ -27,7 +27,7 @@ their final table to their postdoc, Lacey, who will do the actual analysis.
 ### User Tasks
 
 -   [T0001 Access CFDE interface](#access-cfde-interface)
--   [T0006 Search/filter data sets by phenotypic terms](#searchfilter-data-sets-by-phenotypic-terms)
+-   [T0006 Search/filter data sets by anatomic terms](#searchfilter-data-sets-by-anatomic-terms)
 -   [T0005 Search/filter data by type terms](#searchfilter-data-sets-by-type-terms)
 -   [T0004 Search within dataset descriptions](#search-within-dataset-descriptions)
 -   [T0010 Visualize a table of all datasets that match query](#visualize-a-table-of-all-datasets-that-match-query)
@@ -41,7 +41,7 @@ their final table to their postdoc, Lacey, who will do the actual analysis.
 -   [R00001 The interface will support GUI web access to end users](../requirements/r00001-the-interface-will-support-gui-web-access-to-end-users.md)
 
 
-#### T0006 Search/filter data sets by phenotypic terms
+#### T0006 Search/filter data sets by anatomic terms
 
 -   [R00003 The interface will support the selection of an Uberon term of interest](../requirements/r00003-the-interface-will-support-the-selection-of-an-uberon-term-of-interest.md)
 -   [R00004 The C2M2 model will support information relating Uberon terms to CF programs](../requirements/r00004-the-c2m2-model-will-support-information-relating-uberon-terms-to-cf-programs.md)
@@ -68,6 +68,8 @@ their final table to their postdoc, Lacey, who will do the actual analysis.
 #### T0002 Explore Program links
 
 -   [R00013 The interface will support links to original data sources within the results](../requirements/r00013-the-interface-will-support-links-to-original-data-sources-within-the-results.md)
+-   [R00022 The C2M2 model will support links to original data sources](../requirements/r00022-the-c2m2-model-will-support-links-to-original-data-sources.md)
+-   [R00023 The catalog will links to original data sources](../requirements/r00023-the-catalog-will-links-to-original-data-sources.md)
 
 #### T0003 Export a file of results
 
