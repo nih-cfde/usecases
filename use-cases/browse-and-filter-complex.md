@@ -72,10 +72,9 @@ their final table to their postdoc, Lacey, who will do the actual analysis.
 -   [R00012 The interface will render tables and plots to display filtered data](../requirements/r00012-the-interface-will-render-tables-and-plots-to-display-filtered-data.md)
 -   new requirements support number of participants
 -   new requirements support age ranges
--   new requirements support consent data
--   new requirements: support checking some credential list about user access rights
--   new requirements: Deriva access to controlled metadata
--   new requirements: Deriva ATO to display controlled metadata
+-   new requirements: The C2M2 supports consents or other information necessary to limit data discovery based on DCC guidelines
+-   new requirements: Catalog implementing authorization verification according to DCC guidelines
+-   new requirements: Secure CFDE CC cloud system hosting catalog, portal, and other services
 
 #### T0002 Explore Program links
 
