@@ -16,7 +16,7 @@ has_children: false
 
 Jon is a leader at the Common Fund, and wants to build summary tables of
 Common Fund assets for use in both tracking progress and for finding gaps that
-should be filled by future initiatives. They would like to use the CFDE dashboard
+should be filled by future initiatives. They would like to use the CFDE interface
 to download simple tables or graphs that show what assets exist, and where.
 
 Using a web browser, Jon uses a point and click interface to get a matrix of
