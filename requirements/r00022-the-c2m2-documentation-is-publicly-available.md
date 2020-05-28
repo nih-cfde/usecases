@@ -15,4 +15,4 @@ has_children: false
 
 ## Use Cases
 
--   [Create a Data Release](../use-cases/create-data-release.md)
+-   [UC0004 Create a Data Release](../use-cases/create-data-release.md)
