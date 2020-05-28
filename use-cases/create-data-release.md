@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summary Statistics
+title: Create a Data Release
 nav_order: 3
 parent: Use Cases
 has_children: true
