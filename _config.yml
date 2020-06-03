@@ -4,7 +4,7 @@ show_downloads: false
 google_analytics:
 logo: "images/CFDE-logo.png"
 search_enabled: true
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 # Aux links for the upper right navigation
 aux_links:
   "Suggest a Use Case":
