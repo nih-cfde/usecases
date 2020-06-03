@@ -11,3 +11,4 @@ has_children: false
 -   [Researcher Browse and Filter](../use-cases/browse-and-filter.md)
 -   [NIH Compare across DCCs](../use-cases/multi-compare-custodian.md)
 -   [Summary Statistics](../use-cases/summary-statistics.md)
+-   [Create a Data Release](../use-cases/create-data-release.md)
