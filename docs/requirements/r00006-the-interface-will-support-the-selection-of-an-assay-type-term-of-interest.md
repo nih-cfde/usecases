@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00006 The interface will support the selection of an Assay Type term of interest
+title: "&#x2705; R00006 The interface will support the selection of an Assay Type term of interest"
 nav_order: 3
 parent: Requirements
 has_children: false

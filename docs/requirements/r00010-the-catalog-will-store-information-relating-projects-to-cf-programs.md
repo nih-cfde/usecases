@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00010 The catalog will store information relating projects to CF programs
+title: "&#x2705; R00010 The catalog will store information relating projects to CF programs"
 nav_order: 3
 parent: Requirements
 has_children: false

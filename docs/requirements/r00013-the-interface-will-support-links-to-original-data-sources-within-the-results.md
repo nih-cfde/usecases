@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00013 The interface will support links to original data sources within the results
+title: "&#x2705; R00013 The interface will support links to original data sources within the results"
 nav_order: 3
 parent: Requirements
 has_children: false

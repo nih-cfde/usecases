@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00017 The catalog will store information relating species terms to CF programs
+title: "&#x2705; R00017 The catalog will store information relating species terms to CF programs"
 nav_order: 3
 parent: Requirements
 has_children: false

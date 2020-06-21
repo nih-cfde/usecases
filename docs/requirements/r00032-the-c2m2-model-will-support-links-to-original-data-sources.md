@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00032 The C2M2 model will support links to original data sources
+title: "&#x2705; R00032 The C2M2 model will support links to original data sources"
 nav_order: 3
 parent: Requirements
 has_children: false

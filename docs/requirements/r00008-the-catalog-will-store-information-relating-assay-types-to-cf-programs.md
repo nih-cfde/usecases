@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00008 The catalog will store information relating assay types to CF programs
+title: "&#x2705; R00008 The catalog will store information relating assay types to CF programs"
 nav_order: 3
 parent: Requirements
 has_children: false

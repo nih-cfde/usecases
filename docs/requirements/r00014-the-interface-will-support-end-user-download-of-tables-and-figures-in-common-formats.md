@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00014 The interface will support end user download of tables and figures in common formats
+title: "&#x2705; R00014 The interface will support end user download of tables and figures in common formats"
 nav_order: 3
 parent: Requirements
 has_children: false

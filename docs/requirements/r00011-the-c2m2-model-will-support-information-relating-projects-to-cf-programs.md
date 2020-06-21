@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00011 The C2M2 model will support information relating projects to CF programs
+title: "&#x2705; R00011 The C2M2 model will support information relating projects to CF programs"
 nav_order: 3
 parent: Requirements
 has_children: false
