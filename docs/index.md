@@ -7,7 +7,13 @@ has_children: true
 
 # Use Case Library
 
-The Use Case Library provides a set of high-level summaries that capture the essential scientific objectives and place them in the context of larger goals and the Common Fund Data Ecosystem timeline.
+The Use Case Library provides a set of high-level summaries that capture the essential scientific objectives 
+and place them in the context of larger goals and the Common Fund Data Ecosystem timeline.
+
+You can explore the library using the tabs above.
+
+
+## Overview
 
 A **Use Case** consists of an **Objective** and a **Persona** -
 a person who can have an **Objective**. These are combined into a **summary**
@@ -19,8 +25,6 @@ appears to the user as a single step actually is a multistep process to the
 computer doing the work, so any given **User Task** will likely have many **Requirements**.
 Both **user tasks** and **requirements** can be shared across **Use Cases**
 
-
-## Overview
 
 ![Use case library glossary image](./images/UseCaseTopDown.jpg)
 
