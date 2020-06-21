@@ -1,6 +1,6 @@
 ---
 layout: default
-title: single-data-usage
+title: Data Usage Statistics
 nav_order: 4
 parent: Objectives
 has_children: false
