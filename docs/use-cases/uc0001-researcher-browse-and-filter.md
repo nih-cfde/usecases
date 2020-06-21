@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Researcher Browse and Filter
+title: Researcher Browse and Filter :white_check_mark:
 nav_order: 1
 parent: Use Cases
 completed: June 2020
