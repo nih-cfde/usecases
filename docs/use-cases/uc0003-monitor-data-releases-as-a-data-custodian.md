@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summary Statistics
+title: UC0003 Monitor Data Releases as a Data Custodian
 nav_order: 3
 parent: Use Cases
 has_children: true
