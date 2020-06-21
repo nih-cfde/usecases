@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Use Case Home"
+title: "Use Case Definition"
 nav_order: 1
 ---
 
