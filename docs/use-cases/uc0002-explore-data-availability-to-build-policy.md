@@ -8,6 +8,8 @@ has_children: false
 
 # Use Case UC0002 Explore data availability to build policy
 
+**Completed:** June 2020
+
 **Persona:** [Program Officer](../personas/program-officer.md).
 
 **Objective:** [Multiple DCC Comparison](../objectives/multi-dcc-comparison.md)
