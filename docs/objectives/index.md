@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Objectives Home"
+title: "Objective Definition"
 nav_order: 1
 ---
 
