@@ -7,6 +7,8 @@ has_children: false
 ---
 # Use Case UC0001 Researcher Browse and Filter
 
+:apple:
+
 **Persona:** [Clinical Researcher](../personas/clinical-researcher).
 
 **Objective:** [Multiple DCC Comparison](../objectives/multi-dcc-comparison)
