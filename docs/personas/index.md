@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Personas Home"
+title: "Persona Definition"
 nav_order: 1
 ---
 
