@@ -1,2 +1,2 @@
 mkdocs-material
-awesome-pages
+mkdocs-awesome-pages-plugin
