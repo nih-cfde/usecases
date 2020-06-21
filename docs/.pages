@@ -1,4 +1,5 @@
 arrange:
+  - index
   - use-cases
   - personas
   - objectives
