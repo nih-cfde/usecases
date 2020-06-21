@@ -1,6 +1,6 @@
 arrange:
-  - Use Cases: use-cases
-  - Personas: personas
-  - Objectives: objectives
-  - User Tasks: user-tasks
-  - Requirements: requirements
+  - use-cases
+  - personas
+  - objectives
+  - user-tasks
+  - requirements
