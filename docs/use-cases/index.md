@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Use Case Home"
+nav_order: 1
+---
+
 # Use Cases
 
 A **Use Case** consists of an **Objective** and a **Persona** -
