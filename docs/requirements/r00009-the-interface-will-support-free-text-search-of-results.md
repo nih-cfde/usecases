@@ -6,15 +6,17 @@ parent: Requirements
 has_children: false
 ---
 
-# Appears in:
+# R00009 The interface will support free text search of results
+
+## Appears in:
 
 
-## User Tasks
+### User Tasks
 
 -   [T0004 Search within dataset descriptions](../user-tasks/t0004-search-within-dataset-descriptions.md)
 
 
-## Use Cases
+### Use Cases
 
 -   [UC0001 Researcher Browse and Filter](../use-cases/uc0001-researcher-browse-and-filter.md)
 -   [UC0002 Explore data availability to build policy](../use-cases/uc0002-explore-data-availability-to-build-policy.md)

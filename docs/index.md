@@ -46,7 +46,7 @@ the service of achieving the scientific objective. Must be written in
 terms that are meaningful to the user, from their
 perspective. This can be thought of as one in a series of medium scale tasks
 that must be completed to answer the question posed in the scientific objective.
-The list of User Task in a Use Case should cover everything the user needs to
+The list of User Tasks in a Use Case should cover everything the user needs to
 achieve their goal, even interactions that don't involve the software
 or data from the Common Fund.
 

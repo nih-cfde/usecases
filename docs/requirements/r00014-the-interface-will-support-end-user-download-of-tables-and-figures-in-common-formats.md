@@ -6,15 +6,17 @@ parent: Requirements
 has_children: false
 ---
 
-# Appears in:
+# R00014 The interface will support end user download of tables and figures in common formats
+
+## Appears in:
 
 
-## User Tasks
+### User Tasks
 
 -   [T0003 Export a file of results](../user-tasks/t0003-export-a-file-of-results.md)
 
 
-## Use Cases
+### Use Cases
 
 -   [UC0001 Researcher Browse and Filter](../use-cases/uc0001-researcher-browse-and-filter.md)
 -   [UC0002 Explore data availability to build policy](../use-cases/uc0002-explore-data-availability-to-build-policy.md)

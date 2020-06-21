@@ -6,13 +6,15 @@ parent: Requirements
 has_children: false
 ---
 
-# Appears in:
+# R00023 The CFDE ingest tool is publicly available
+
+## Appears in:
 
 
-## User Tasks
+### User Tasks
 
 -   [T0014 Install the CFDE ingest tool](../user-tasks/t0014-install-cfde-ingest-tool.md)
 
-## Use Cases
+### Use Cases
 
 -   [UC0004 Create a Data Release](../use-cases/uc0004-create-a-data-release.md)
