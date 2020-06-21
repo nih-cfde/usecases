@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create a Data Release
+title: UC0004 Create a Data Release
 nav_order: 4
 parent: Use Cases
 has_children: true
