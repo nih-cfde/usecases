@@ -89,6 +89,7 @@ nav:
 
 markdown_extensions:
 - admonition
+- pymdownx.emoji
 - codehilite:
     guess_lang: false
 - toc:
