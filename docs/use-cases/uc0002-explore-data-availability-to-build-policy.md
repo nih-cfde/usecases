@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NIH Compare across DCCs
+title: UC0002 Explore data availability to build policy
 nav_order: 2
 parent: Use Cases
 has_children: false
