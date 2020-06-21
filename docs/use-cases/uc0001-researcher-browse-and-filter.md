@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Researcher Browse and Filter
+title: "&#x2705; UC0001 Researcher Browse and Filter"
 nav_order: 1
 parent: Use Cases
+completed: June 2020
 has_children: false
 ---
+
 # Use Case UC0001 Researcher Browse and Filter
+
+**Completed:** June 2020
 
 **Persona:** [Clinical Researcher](../personas/clinical-researcher).
 

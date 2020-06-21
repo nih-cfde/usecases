@@ -1,6 +1,6 @@
 ---
 layout: default
-title: data-custodian
+title: Data Custodian
 nav_order: 1
 parent: Personas
 has_children: false
