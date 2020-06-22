@@ -22,10 +22,10 @@ should be filled by future initiatives. They would like to use the CFDE interfac
 to download simple tables or graphs that show what assets exist, and where.
 
 Using a web browser, Jon uses a point and click interface to get a matrix of
-Uberon tissue terms by DCC. With a few more clicks, they gets similar tables showing
+Uberon tissue terms by DCC. With a few more clicks, they get similar tables showing
 Species, and Assay Types by Program.
 
-Since these are simple matrices, Jon can plot the data in almost any
+Since these are simple matrices, Jon can re-plot the data in almost any
 piece of plotting software, or look at the results in Excel. Jon downloads
 the underlying data to add to a report they are making about Common Fund assets.
 
