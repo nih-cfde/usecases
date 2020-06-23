@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cfde-clinical-researcher
+title: CFDE Clinical Researcher
 nav_order: 4
 parent: Personas
 has_children: false

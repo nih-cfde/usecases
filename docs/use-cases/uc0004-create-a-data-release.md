@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create a Data Release
+title: UC0004 Create a Data Release
 nav_order: 4
 parent: Use Cases
 has_children: true
@@ -13,22 +13,22 @@ has_children: true
 
 # Summary
 
-Jordan is a Data Administrator for a Common Fund Data Coordinating Center. She needs
+Jordan is a Data Administrator for a Common Fund Data Coordinating Center. They need
 to provide a description of the Data Coordinating Center’s data to the CFDE so that:
 (a) the data can be discovered by clinical researchers, (b) the data can be compared
-with data from other Data Coordinating Centers, and (c) she and others can see how
+with data from other Data Coordinating Centers, and (c) they and others can see how
 CFDE’s metrics, statistics, and FAIRness measurements apply to the data. We assume
-Jordan has previously been registered with CFDE and authorized by her Data
+Jordan has previously been registered with CFDE and authorized by their Data
 Coordinating Center to act as a data administrator on its behalf.
 
-Jordan first reviews the documentation for the C2M2 data model. If she has not
-previously installed CFDE’s ingest tool, she does so. She then extracts the required
-metadata from her Data Coordinating Center’s data and transforms it into the C2M2
-data model. Once the metadata is in the C2M2 model, she runs CFDE’s ingest tool to
+Jordan first reviews the documentation for the C2M2 data model. If they have not
+previously installed CFDE’s ingest tool, they does so. They then extract the required
+metadata from their Data Coordinating Center’s data and transform it into the C2M2
+data model. Once the metadata is in the C2M2 model, they run CFDE’s ingest tool to
 ingest the metadata. When the ingest completes, Jordan accesses the CFDE interface
 and views the results in a non-public reviewing view. If the results are not
-satisfactory, she adjusts the metadata and re-runs the ingest tool, repeating until
-the results are satisfactory. If the results are satisfactory, she approves the data
+satisfactory, they adjust the metadata and re-runs the ingest tool, repeating until
+the results are satisfactory. If the results are satisfactory, they approves the data
 release and it is marked for review by CFDE personnel.
 
 

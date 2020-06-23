@@ -1,12 +1,14 @@
 ---
 layout: default
-title: NIH Compare across DCCs
+title: "&#x2705; UC0002 Explore data availability to build policy"
 nav_order: 2
 parent: Use Cases
 has_children: false
 ---
 
 # Use Case UC0002 Explore data availability to build policy
+
+**Completed:** June 2020
 
 **Persona:** [Program Officer](../personas/program-officer.md).
 
@@ -20,13 +22,12 @@ should be filled by future initiatives. They would like to use the CFDE interfac
 to download simple tables or graphs that show what assets exist, and where.
 
 Using a web browser, Jon uses a point and click interface to get a matrix of
-Uberon tissue terms by DCC. With a few more clicks, they gets similar tables showing
+Uberon tissue terms by DCC. With a few more clicks, they get similar tables showing
 Species, and Assay Types by Program.
 
-Since these are simple binary matrices, Jon can plot the data in almost any
-piece of plotting software. Since they would like to see what terms are most broadly
-and most infrequently found in the Common Fund, they opt for using UpSet, which
-will automatically render her data in a type of multidimensional venn diagram.
+Since these are simple matrices, Jon can re-plot the data in almost any
+piece of plotting software, or look at the results in Excel. Jon downloads
+the underlying data to add to a report they are making about Common Fund assets.
 
 ### User Tasks
 

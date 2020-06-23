@@ -1,6 +1,6 @@
 ---
 layout: default
-title: naive-clinical-researcher
+title: Clinical Researcher
 nav_order: 4
 parent: Personas
 has_children: false

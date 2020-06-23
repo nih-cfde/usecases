@@ -1,20 +1,21 @@
 ---
 layout: default
-title: R00001 The interface will support GUI web access to end users
+title: "&#x2705; R00001 The interface will support GUI web access to end users"
 nav_order: 3
 parent: Requirements
 has_children: false
 ---
 
-# Appears in:
+# R00001 The interface will support GUI web access to end users
 
+## Appears in:
 
-## User Tasks
+### User Tasks
 
 -   [T0001 Access CFDE interface](../user-tasks/t0001-access-cfde-interface.md)
 
 
-## Use Cases
+### Use Cases
 
 -   [UC0001 Researcher Browse and Filter](../use-cases/uc0001-researcher-browse-and-filter.md)
 -   [UC0002 Explore data availability to build policy](../use-cases/uc0002-explore-data-availability-to-build-policy.md)

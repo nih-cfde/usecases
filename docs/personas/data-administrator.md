@@ -1,6 +1,6 @@
 ---
 layout: default
-title: data-administrator
+title: Data Administrator
 nav_order: 1
 parent: Personas
 has_children: false

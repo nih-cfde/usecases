@@ -6,13 +6,15 @@ parent: Requirements
 has_children: false
 ---
 
-# Appears in:
+# R00025 The CFDE ingest tool supports user authentication
+
+## Appears in:
 
 
-## User Tasks
+### User Tasks
 
 -   [T0015 Ingest a candidate data release](../user-tasks/t0015-ingest-candidate-data-release.md)
 
-## Use Cases
+### Use Cases
 
 -   [UC0004 Create a Data Release](../use-cases/uc0004-create-a-data-release.md)

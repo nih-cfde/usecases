@@ -1,6 +1,6 @@
 ---
 layout: default
-title: discover-datasets
+title: Discover Datasets
 nav_order: 1
 parent: Objectives
 has_children: false
