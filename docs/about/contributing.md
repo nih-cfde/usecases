@@ -76,27 +76,45 @@ Thank you for being here and for being a part of the CFDE project.
 - **Site index**: automatically created by yaml headers in each file (only the title is visible on the rendered website). The yaml header must be formatted as follows:
 
   ```
+  
   ---
+  
   layout: default
+  
   title: "<Use case title>"
+  
   nav_order: <page number>
+  
   parent: <website tab name>
+  
   completed: <month year>
+  
   has_children: false
+  
   ---
+  
   ```
   
   This is an example for the 'UC0001' Use Case:
   
   ```
+  
   ---
+  
   layout: default
+  
   title: "UC0001 Researcher Browse and Filter"
+  
   nav_order: 1
+  
   parent: Use Cases
+  
   completed: June 2020
+  
   has_children: false
+  
   ---
+  
   ```
   
   The `parent` value depends on the Use Case file type:
@@ -123,12 +141,19 @@ Thank you for being here and for being a part of the CFDE project.
 - Required sections:
     - yaml index header
     - Page header: title, date completed (`<month> <year>`), persona, objective
+    
     ```
+    
     <Title>
+    
     Completed:
+    
     Persona:
+    
     Objective:
+    
     ```
+    
     - `Summary`: a short summary of the use case
     - `User Tasks`: a bullet point list of the tasks required for the use case, including links to each task page. Tasks are numbered by `TXXXX`.
     - `Requirements`: a bullet point list of the requirements for each task, including links to each requirement page. Requirements are numbered by `RXXXXX`.
@@ -143,8 +168,11 @@ Thank you for being here and for being a part of the CFDE project.
     - A section listing assumptions about the persona's credentials e.g., access to the CFDE, formatted as follows:
     
     ```
+    
     Assumptions
+    
           Users with this persona:
+          
     ```
 
 #### `Objective` files
@@ -164,10 +192,13 @@ Thank you for being here and for being a part of the CFDE project.
     - An `Appears in` section with two sub-sections:
   
     ```
+    
     Appears in:
+    
         User Tasks
 
         Use Cases
+        
     ```
   
       - Under `User Tasks`: bullet point list of the task(s) that the requirement appears in, with page link to the user task page
