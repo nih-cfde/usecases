@@ -32,7 +32,7 @@ If you are submitting a pull request:
 
 ### Use Case approval process
   - The Use Case committee will mark proposed use cases as `in progress`, `approved`, and `done`, as appropriate.
-  - If the Use Case has been approved, a &#x2705;will be added next to the Use Case tab title, as well as its corresponding Requirements tab titles.
+  - If the Use Case has been approved, a &#x2705; will be added next to the Use Case tab title, as well as its corresponding Requirements tab titles.
 
 If you have any questions about contributing, please [open an issue](https://github.com/nih-cfde/usecases/issues/new) and we will lend a hand ASAP.
 
@@ -56,7 +56,7 @@ Thank you for being here and for being a part of the CFDE project.
   **TO DO: make template file for use case pg?**
 
 - **File format**: all files should be written in Markdown
-  - **TO DO: add markdown help link**
+  - For help with Markdown syntax, see this [basic syntax guide](https://www.markdownguide.org/basic-syntax/)
   - To add links to other pages:
     ```
     [<text to click on>](<link to file>)
