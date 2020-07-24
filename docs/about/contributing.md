@@ -71,7 +71,7 @@ Thank you for being here and for being a part of the CFDE project.
   layout: default
   title: "<Use case title>"
   nav_order: <page number>
-  parent: <file directory name>
+  parent: <website tab name>
   completed: <month year>
   has_children: false
   ---
