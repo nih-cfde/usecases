@@ -7,9 +7,9 @@ has_children: false
 ---
 # Use Case UC0005 Researcher Browse and Filter- complex
 
-**Persona:** [Clinical Researcher](../personas/clinical-researcher).
+**Persona:** [Clinical Researcher](../personas/clinical-researcher.md)
 
-**Objective:** [Multiple DCC Comparison](../objectives/multi-dcc-comparison)
+**Objective:** [Multiple DCC Comparison](../objectives/multi-dcc-comparison.md)
 
 ### Summary
 
