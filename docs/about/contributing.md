@@ -71,7 +71,7 @@ Thank you for being here and for being a part of the CFDE project.
   layout: default
   title: "<Use case title>"
   nav_order: <page number>
-  parent: Use Cases
+  parent: <file directory name>
   completed: <month year>
   has_children: false
   ---
@@ -87,6 +87,15 @@ Thank you for being here and for being a part of the CFDE project.
   has_children: false
   ---
   ```
+  The `parent` value depends on the Use Case file type:
+  `parent:` value | Type
+  --- | ---
+  `Use Cases` | for the main Use Case file
+  `Personas` | for persona files
+  `Objectives` | for objective files
+  `User Tasks` | for user task files
+  `Requirements` | for requirements files
+  
 - **File names**: should be lower case, have hyphens, and match the heading. Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file code numbered in order of appearance in this Use Case Library website.
 
     File type | Example
