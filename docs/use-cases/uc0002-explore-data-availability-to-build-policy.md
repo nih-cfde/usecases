@@ -10,7 +10,7 @@ has_children: false
 
 **Completed:** June 2020
 
-**Persona:** [Program Officer](../personas/program-officer.md).
+**Persona:** [Program Officer](../personas/program-officer.md)
 
 **Objective:** [Multiple DCC Comparison](../objectives/multi-dcc-comparison.md)
 
