@@ -11,9 +11,9 @@ has_children: false
 
 **Completed:** June 2020
 
-**Persona:** [Clinical Researcher](../personas/clinical-researcher).
+**Persona:** [Clinical Researcher](../personas/clinical-researcher.md)
 
-**Objective:** [Multiple DCC Comparison](../objectives/multi-dcc-comparison)
+**Objective:** [Multiple DCC Comparison](../objectives/multi-dcc-comparison.md)
 
 ### Summary
 
