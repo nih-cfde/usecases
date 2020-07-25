@@ -7,14 +7,6 @@ nav_order: 2
 
 # Contributing to the nih-cfde Use Case Repository
 
-
-```
-test code
-block
-does
-this render
-```
-
 Hello, and thank you for your interest in contributing to the CFDE Use Case Repository!
 
 By contributing to this repository, you agree:
@@ -71,44 +63,18 @@ Thank you for being here and for being a part of the CFDE project.
     - For help with Markdown syntax, see this [basic syntax guide](https://www.markdownguide.org/basic-syntax/)
   
     - To add links to other pages:
-  
     ```
     [<text to click on>](<link to file>)
     ```
     
     This is an example for a link to the Personas description page for 'Clinical Researcher':
-    
     ```
     [Clinical Researcher](../personas/clinical-researcher.md)
     ```
     
-- **Site index**: automatically created by yaml headers in each file (only the title is visible on the rendered website). The yaml header must be formatted as follows:
+- **Site index**: automatically created by yaml headers in each file (only the title is visible on the rendered website). See [template file](../template_files) for example structure.
 
-  ```
-  ---
-  layout: default
-  title: "<Use case title>"
-  nav_order: <page number>
-  parent: <website tab name>
-  completed: <month year>
-  has_children: false
-  ---
-  ```
-  
-  This is an example for the 'UC0001' Use Case:
-  
-  ```
-  ---
-  layout: default
-  title: "UC0001 Researcher Browse and Filter"
-  nav_order: 1
-  parent: Use Cases
-  completed: June 2020
-  has_children: false
-  ---
-  ```
-  
-  The `parent` value depends on the Use Case file type:
+  The `parent` yaml value depends on the website tab the Use Case file appears in:
   
   `parent:` value | Type
   --- | ---
@@ -129,21 +95,15 @@ Thank you for being here and for being a part of the CFDE project.
    requirement | r00001-the-interface-will-support-gui-web-access-to-end-users.md
 
 #### `Use Case` files
+- Use Case titles are always labeled with their `UCXXXX` ID
 - Required sections:
     - yaml index header
     - Page header: title, date completed (`<month> <year>`), persona, objective
-    
-    ```
-    <Title>
-    Completed:
-    Persona:
-    Objective:
-    ```
-    
     - `Summary`: a short summary of the use case
     - `User Tasks`: a bullet point list of the tasks required for the use case, including links to each task page. Tasks are numbered by `TXXXX`.
     - `Requirements`: a bullet point list of the requirements for each task, including links to each requirement page. Requirements are numbered by `RXXXXX`.
 - The persona, objective, user tasks, and requirements need to be linked to their corresponding description page (detailed in the following sections)
+- See [use case file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/use-case-template.md)
 
 #### `Persona` files
 - Required sections:
@@ -151,35 +111,28 @@ Thank you for being here and for being a part of the CFDE project.
     - Short description of their biological/computational experience and relation to any of the other Personas in the Use Cases Repository
     - Persona title (same as yaml index title)
     - Short description of the type of work they do, slightly more detailed than the first description
-    - A section listing assumptions about the persona's credentials e.g., access to the CFDE, formatted as follows:
-    
-    ```
-    Assumptions
-          Users with this persona:    
-    ```
+    - A section listing assumptions about the persona's credentials e.g., access to the CFDE
+- See [persona file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/persona-template.md)
 
 #### `Objective` files
 - Required sections:
     - yaml index header
     - `<name of the task>:`: brief ~1 sentence description of the task
+- See [objective file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/objective-template.md)
 
 #### `User task` files
+- User Task titles are always labeled with their `TXXXX` ID
 - Required sections:
     - yaml index header
     - `Appears in Use Cases:`: bullet point list of the use case(s) that the task appears in, with page link to the use case page(s)
+- See [user task file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/user-task-template.md)
 
 #### `Requirement` files
+- Requirement titles are always labeled with their `RXXXXX` ID
 - Required sections:
     - yaml index header
     - Requirement title (same as yaml index title)
     - An `Appears in` section with two sub-sections:
-  
-    ```
-    Appears in:
-        User Tasks
-        Use Cases
-    ```
-  
       - Under `User Tasks`: bullet point list of the task(s) that the requirement appears in, with page link to the user task page
       - Under `Use Cases`: bullet point list of the use case(s) that the requirement appears in, with page link to the use case page(s)
-
+- See [requirement file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/requirement-template.md)
