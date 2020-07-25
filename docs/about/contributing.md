@@ -63,16 +63,18 @@ Thank you for being here and for being a part of the CFDE project.
     - For help with Markdown syntax, see this [basic syntax guide](https://www.markdownguide.org/basic-syntax/)
   
     - To add links to other pages:
+    
     ```
     [<text to click on>](<link to file>)
     ```
     
     This is an example for a link to the Personas description page for 'Clinical Researcher':
+    
     ```
     [Clinical Researcher](../personas/clinical-researcher.md)
     ```
     
-- **Site index**: automatically created by yaml headers in each file (only the title is visible on the rendered website). See [template file](../template_files) for example structure.
+- **Site index**: automatically created by yaml headers in each file (only the title is visible on the rendered website). See [template file](https://github.com/nih-cfde/usecases/tree/StyleGuide/docs/template_files) for example structure.
 
   The `parent` yaml value depends on the website tab the Use Case file appears in:
   
