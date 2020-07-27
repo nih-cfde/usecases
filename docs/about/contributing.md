@@ -56,6 +56,7 @@ Thank you for being here and for being a part of the CFDE project!
 ### General File Format
 
 **File format** for all files should be written in Markdown.
+
 - For help with Markdown syntax, see this [basic syntax guide](https://www.markdownguide.org/basic-syntax/)
 - To add links to other pages:
     
