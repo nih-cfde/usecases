@@ -123,6 +123,7 @@ Thank you for being here and for being a part of the CFDE project.
 - See [objective file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/objective-template.md)
 
 #### `User task` files
+- The User Tasks title should be short and self-explanatory, but please add a short description as needed for clarity
 - User Task titles are always labeled with their `TXXXX` ID
 - Required sections:
     - yaml index header
@@ -130,6 +131,7 @@ Thank you for being here and for being a part of the CFDE project.
 - See [user task file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/user-task-template.md)
 
 #### `Requirement` files
+- The Requirements title should be short and self-explanatory, but please add a short description as needed for clarity
 - Requirement titles are always labeled with their `RXXXXX` ID
 - Required sections:
     - yaml index header
