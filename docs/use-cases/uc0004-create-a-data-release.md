@@ -7,9 +7,9 @@ has_children: true
 ---
 # Use Case UC0004 Create a Data Release
 
-**Persona:** [Data Administrator](../personas/data-administrator).
+**Persona:** [Data Administrator](../personas/data-administrator.md)
 
-**Objective:** [Create a Data Release](../objectives/create-data-release)
+**Objective:** [Create a Data Release](../objectives/create-data-release.md)
 
 # Summary
 

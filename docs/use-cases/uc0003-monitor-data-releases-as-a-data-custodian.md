@@ -7,9 +7,9 @@ has_children: true
 ---
 # Use Case UC0003 Monitor Data Releases as a Data Custodian
 
-**Persona:** [Data Custodian](../personas/data-custodian).
+**Persona:** [Data Custodian](../personas/data-custodian.md)
 
-**Objective:** [Monitor Data Releases](../objectives/single-dcc-release)
+**Objective:** [Monitor Data Releases](../objectives/single-dcc-release.md)
 
 # Summary
 
