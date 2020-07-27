@@ -54,7 +54,7 @@ Thank you for being here and for being a part of the CFDE project.
     - specific **User Tasks**
     - technical infrastructure **Requirements** for each User Task
 - See [glossary](./glossary.md) for definitions
-- Each persona, objective, user task, and requirement needs its own description page that will be linked to in the corresponding use case page(s) (some common user tasks and requirements may be repeated across use cases).
+- Each persona, objective, user task, and requirement needs its own description page that will be linked to the corresponding use case page(s) (some common user tasks and requirements may be repeated across use cases).
 
 ### General File Format
 
@@ -86,7 +86,7 @@ Thank you for being here and for being a part of the CFDE project.
   `User Tasks` | for user task files
   `Requirements` | for requirements files
   
-- **File names**: should be lower case, have hyphens, and match the heading. Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file code numbered in order of appearance in this Use Case Library website.
+- **File names**: should be lower case, have hyphens, and match the heading. Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file code numbered in order of appearance in this Use Case Repository website.
 
    File type | Example
    --- | ---
@@ -97,7 +97,7 @@ Thank you for being here and for being a part of the CFDE project.
    requirement | r00001-the-interface-will-support-gui-web-access-to-end-users.md
 
 #### `Use Case` files
-- Use Case titles are always labeled with their `UCXXXX` ID
+- Use Case titles always begin with their `UCXXXX` ID
 - Required sections:
     - yaml index header
     - Page header: title, date completed (`<month> <year>`), persona, objective
@@ -124,7 +124,7 @@ Thank you for being here and for being a part of the CFDE project.
 
 #### `User task` files
 - The User Tasks title should be short and self-explanatory, but please add a short description as needed for clarity
-- User Task titles are always labeled with their `TXXXX` ID
+- User Task titles always begin with their `TXXXX` ID
 - Required sections:
     - yaml index header
     - `Appears in Use Cases:`: bullet point list of the use case(s) that the task appears in, with page link to the use case page(s)
@@ -132,7 +132,7 @@ Thank you for being here and for being a part of the CFDE project.
 
 #### `Requirement` files
 - The Requirements title should be short and self-explanatory, but please add a short description as needed for clarity
-- Requirement titles are always labeled with their `RXXXXX` ID
+- Requirement titles always begin with their `RXXXXX` ID
 - Required sections:
     - yaml index header
     - Requirement title (same as yaml index title)
