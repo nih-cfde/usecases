@@ -30,19 +30,16 @@ If you are familiar with GitHub please either:
 If you are submitting a pull request:
 
 - Please create one pull request per use case so admin can check the complete change
-
 - Request review from @Acharbonneau and @marisalim
-
 - Please allow up to one week for admin to review your request
 
 ### Use Case approval process
 - The Use Case committee will mark proposed use cases as `in progress`, `approved`, and `done`, as appropriate.
-  
 - If the Use Case has been approved, a &#x2705; will be added next to the Use Case tab title, as well as its corresponding Requirements tab titles.
 
 If you have any questions about contributing, please [open an issue](https://github.com/nih-cfde/usecases/issues/new) and we will lend a hand ASAP.
 
-Thank you for being here and for being a part of the CFDE project.
+Thank you for being here and for being a part of the CFDE project!
 
 ## Use Case Repository Style Guide <a name="usecasestyle"></a>
 
@@ -58,23 +55,19 @@ Thank you for being here and for being a part of the CFDE project.
 
 ### General File Format
 
-- **File format**: all files should be written in Markdown
+**File format** for all files should be written in Markdown.
+- For help with Markdown syntax, see this [basic syntax guide](https://www.markdownguide.org/basic-syntax/)
+- To add links to other pages:
+    
+```
+# syntax
+[<text to click on>](<Github repo relative path to file>)
 
-    - For help with Markdown syntax, see this [basic syntax guide](https://www.markdownguide.org/basic-syntax/)
-  
-    - To add links to other pages:
+# This is an example for a link to the Personas description page for 'Clinical Researcher':
+[Clinical Researcher](../personas/clinical-researcher.md)
+```
     
-    ```
-    [<text to click on>](<link to file>)
-    ```
-    
-    This is an example for a link to the Personas description page for 'Clinical Researcher':
-    
-    ```
-    [Clinical Researcher](../personas/clinical-researcher.md)
-    ```
-    
-- **Site index**: automatically created by yaml headers in each file (only the title is visible on the rendered website). See [template file](https://github.com/nih-cfde/usecases/tree/StyleGuide/docs/template_files) for example structure.
+The **Site index** is automatically created by yaml headers in each file (only the title is visible on the rendered website). See [template files](https://github.com/nih-cfde/usecases/tree/StyleGuide/docs/template_files) for example structure.
 
   The `parent` yaml value depends on the website tab the Use Case file appears in:
   
@@ -86,7 +79,7 @@ Thank you for being here and for being a part of the CFDE project.
   `User Tasks` | for user task files
   `Requirements` | for requirements files
   
-- **File names**: should be lower case, have hyphens, and match the heading. Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file code numbered in order of appearance in this Use Case Repository website.
+**File names** should be lower case, have hyphens, and match the heading. Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file code numbered in order of appearance in this Use Case Repository website.
 
    File type | Example
    --- | ---
