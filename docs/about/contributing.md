@@ -60,7 +60,7 @@ Thank you for being here and for being a part of the CFDE project!
 
 ### General File Format
 
-**File format** for all files should be written in Markdown.
+***File format** for all files should be written in Markdown.*
 
 - For help with Markdown syntax, see this [basic syntax guide](https://www.markdownguide.org/basic-syntax/)
 - To add links to other pages:
@@ -73,7 +73,7 @@ Thank you for being here and for being a part of the CFDE project!
 [Clinical Researcher](../personas/clinical-researcher.md)
 ```
     
-The **Site index** is automatically created by yaml headers in each file (only the title is visible on the rendered website). See [template files](https://github.com/nih-cfde/usecases/tree/StyleGuide/docs/template_files) for example structure.
+*The **Site index** is automatically created by yaml headers in each file (only the title is visible on the rendered website). See [template files](https://github.com/nih-cfde/usecases/tree/StyleGuide/docs/template_files) for example structure.*
 
   The `parent` yaml value depends on the website tab the Use Case file appears in:
   
@@ -85,7 +85,9 @@ The **Site index** is automatically created by yaml headers in each file (only t
   `User Tasks` | for user task files
   `Requirements` | for requirements files
   
-**File names** should be lower case, have hyphens, and match the heading. Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file code numbered in order of appearance in this Use Case Repository website.
+  The Use Case committee will finalize yaml header page numbers to ensure they do not clash with existing files.
+  
+***File names** should be lower case, have hyphens, and match the heading. Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file ID numbered in order of appearance in this Use Case Repository website.*
 
    File type | Example
    --- | ---
@@ -94,8 +96,10 @@ The **Site index** is automatically created by yaml headers in each file (only t
    objective | create-data-release.md
    user task | t0001-access-cfde-interface.md
    requirement | r00001-the-interface-will-support-gui-web-access-to-end-users.md
+   
+   The Use Case committee will finalize Use Case, User Task, and Requirement file IDs to ensure they do not clash with existing IDs.
 
-#### `Use Case` files
+### `Use Case` files
 - Use Case titles always begin with their `UCXXXX` ID
 - Required sections:
     - yaml index header
@@ -106,7 +110,7 @@ The **Site index** is automatically created by yaml headers in each file (only t
 - The persona, objective, user tasks, and requirements need to be linked to their corresponding description page (detailed in the following sections)
 - See [use case file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/use-case-template.md)
 
-#### `Persona` files
+### `Persona` files
 - Required sections:
     - yaml index header
     - Short description of their biological/computational experience and relation to any of the other Personas in the Use Cases Repository
@@ -115,13 +119,13 @@ The **Site index** is automatically created by yaml headers in each file (only t
     - A section listing assumptions about the persona's credentials e.g., access to the CFDE
 - See [persona file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/persona-template.md)
 
-#### `Objective` files
+### `Objective` files
 - Required sections:
     - yaml index header
     - `<name of the task>:`: brief ~1 sentence description of the task
 - See [objective file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/objective-template.md)
 
-#### `User task` files
+### `User task` files
 - The User Tasks title should be short and self-explanatory, but please add a short description as needed for clarity
 - User Task titles always begin with their `TXXXX` ID
 - Required sections:
@@ -129,7 +133,7 @@ The **Site index** is automatically created by yaml headers in each file (only t
     - `Appears in Use Cases:`: bullet point list of the use case(s) that the task appears in, with page link to the use case page(s)
 - See [user task file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/user-task-template.md)
 
-#### `Requirement` files
+### `Requirement` files
 - The Requirements title should be short and self-explanatory, but please add a short description as needed for clarity
 - Requirement titles always begin with their `RXXXXX` ID
 - Required sections:
