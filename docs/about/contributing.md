@@ -34,8 +34,13 @@ If you are submitting a pull request:
 - Please allow up to one week for admin to review your request
 
 ### Use Case approval process
-- The Use Case committee will mark proposed use cases as `in progress`, `approved`, and `done`, as appropriate.
-- If the Use Case has been approved, a &#x2705; will be added next to the Use Case tab title, as well as its corresponding Requirements tab titles.
+- The Use Case committee will mark proposed use cases, and corresponding requirements pages, as `in progress`, `approved`, and `done`, as appropriate:
+
+Progress | Symbol
+--- | ---
+in progress | &#x23F3;
+approved | &#x1F44C;
+done | &#x2705;
 
 If you have any questions about contributing, please [open an issue](https://github.com/nih-cfde/usecases/issues/new) and we will lend a hand ASAP.
 
