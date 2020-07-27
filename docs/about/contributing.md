@@ -115,7 +115,7 @@ Thank you for being here and for being a part of the CFDE project!
     - yaml index header
     - Short description of their biological/computational experience and relation to any of the other Personas in the Use Cases Repository
     - Persona title (same as yaml index title)
-    - Short description of the type of work they do, slightly more detailed than the first description
+    - Short description of their work role and responsibilities, slightly more detailed than the first description
     - A section listing assumptions about the persona's credentials e.g., access to the CFDE
 - See [persona file template](https://github.com/nih-cfde/usecases/blob/StyleGuide/docs/template_files/persona-template.md)
 
