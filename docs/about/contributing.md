@@ -31,15 +31,13 @@ If you are submitting a pull request, please create one pull request per use cas
 
 PR process:
 
-1. Preview new changes
-
+**First, preview new changes**
   - Create a new branch in the [use cases repo](https://github.com/nih-cfde/usecases)
   - Use the [use case file templates](https://github.com/nih-cfde/usecases/tree/master/docs/template_files) to add your new use case files
   - Submit a PR from your branch to the `preview` branch. After you submit the PR, make sure the repo checks complete (green check mark).
   - If the checks complete successfully, merge the changes and view the [preview website](https://cfde-usecases.readthedocs-hosted.com/en/preview/) to check the changes. It can take ~30 minutes for the new changes to appear. If the checks failed, you can submit an issue for help.
 
-2. If you are satisfied with the changes, submit a new PR from your branch to the `master` branch.
-
+**Second, if you are satisfied with the changes, submit a new PR from your branch to the `master` branch.**
   - See [template]()
   - Request review from @Acharbonneau and @marisalim
   - Please allow up to one week for admin to review your request
