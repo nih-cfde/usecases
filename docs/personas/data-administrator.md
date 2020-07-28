@@ -8,8 +8,6 @@ has_children: false
 
 This user is a technical administrator of raw data, pipelines, portal, tools and/or processed data. They are supervised by a Data Custodian.
 
-### Data Administrator
-
 This user is charged with making sure their DCC's data is available, widely used, and used appropriately. 
 They have a deep knowledge of their DCC's dataset and the semantic meaning of each data component.
 Their computational knowledge ranges from intermediate to professional bioinformatician.
