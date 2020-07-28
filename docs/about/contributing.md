@@ -56,11 +56,11 @@ Thank you for being here and for being a part of the CFDE project!
     - specific **User Tasks**
     - technical infrastructure **Requirements** for each User Task
 - See [glossary](./glossary.md) for definitions
-- Each persona, objective, user task, and requirement needs its own description page that will be linked to the corresponding use case page(s) (some common user tasks and requirements may be repeated across use cases).
+- Each persona, objective, user task, and requirement needs its own description page that will be linked to the corresponding use case page(s). Common user tasks and requirements should be reused across use cases.
 
 ### General File Format
 
-***File format** for all files should be written in Markdown.*
+**File format** for all files should be written in Markdown.
 
 - For help with Markdown syntax, see this [basic syntax guide](https://www.markdownguide.org/basic-syntax/)
 - To add links to other pages:
@@ -73,7 +73,7 @@ Thank you for being here and for being a part of the CFDE project!
 [Clinical Researcher](../personas/clinical-researcher.md)
 ```
     
-*The **Site index** is automatically created by yaml headers in each file (only the title is visible on the rendered website). See [template files](https://github.com/nih-cfde/usecases/tree/StyleGuide/docs/template_files) for example structure.*
+The **Site index** is automatically created by yaml headers in each file (only the title will be visible on the rendered website). See [template files](https://github.com/nih-cfde/usecases/tree/StyleGuide/docs/template_files) for example structure.
 
   The `parent` yaml value depends on the website tab the Use Case file appears in:
   
@@ -87,7 +87,7 @@ Thank you for being here and for being a part of the CFDE project!
   
   The Use Case committee will finalize yaml header page numbers to ensure they do not clash with existing files.
   
-***File names** should be lower case, have hyphens, and match the heading. Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file ID numbered in order of appearance in this Use Case Repository website.*
+**File names** should be lower case, have hyphens, and match the heading. Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file ID numbered in order of appearance in this Use Case Repository website.
 
    File type | Example
    --- | ---
@@ -113,7 +113,7 @@ Thank you for being here and for being a part of the CFDE project!
 ### `Persona` files
 - Required sections:
     - yaml index header
-    - Short description of their biological/computational experience and relation to any of the other Personas in the Use Cases Repository
+    - One line description of the biological/computational experience and relation to any of the other Personas in the Use Cases Repository
     - Persona title (same as yaml index title)
     - Short description of their work role and responsibilities, slightly more detailed than the first description
     - A section listing assumptions about the persona's credentials e.g., access to the CFDE
