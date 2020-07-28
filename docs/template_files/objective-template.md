@@ -6,4 +6,4 @@ parent: Objectives
 has_children: false
 ---
 
-ADD objective title: ADD brief objective description
+ADD brief objective description
