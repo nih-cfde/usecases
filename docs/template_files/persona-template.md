@@ -6,11 +6,7 @@ parent: Personas
 has_children: false
 ---
 
-ADD Short description of their biological/computational experience level and relation to any of the other Personas in the Use Cases Repository
-
-### ADD persona name
-
-ADD Short description of their role and responsibilities, slightly more detailed than the first description
+ADD Short description of their biological/computational experience level, their role and responsibilities, and relation to any of the other Personas in the Use Cases Repository
 
 ### Assumptions
 
