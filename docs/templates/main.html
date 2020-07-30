@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block site_meta %}
+  script type="text/javascript" src="ZoomifyImageViewerFree-min.js"></script>
+  <script type="text/javascript"> Z.showImage("myContainer", "ZoomifyImageExample"); </script>
+  {{ super() }}
+{% endblock %}
+
+{% block content %}
+<div id="myContainer" style="width:900px; height:500px; margin:auto; border:1px; border-style:solid; border-color:#696969; background-color:#000000;" ></div>
+{{ super() }}
+{% endblock %}
+
+{% block disqus %}
+    <div class="md-source-date">
+    <small>
+        Authors: {{ git_page_authors }}
+    </small>
+  </div>
+    {% include "partials/integrations/disqus.html" %}
+{% endblock %}
