@@ -26,9 +26,9 @@ computer doing the work, so any given **User Task** will likely have many **Requ
 Both **user tasks** and **requirements** can be shared across **Use Cases**
 
 
-<div id="myContainer" markdown="1" style="width:500px; height:500px; margin:auto; border:1px; border-style:solid; border-color:#696969; background-color:#000000;" >>
+<div id="myContainer" style="width:500px; height:500px; margin:auto; border:1px; border-style:solid; border-color:#696969;" >>
 
-![Use case library glossary image](../images/UseCaseTopDown.jpg)
+<img src="./images/UseCaseTopDown.jpg" alt="Use case library glossary image">
 
 </div>
 
