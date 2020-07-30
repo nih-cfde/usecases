@@ -25,6 +25,7 @@ appears to the user as a single step actually is a multistep process to the
 computer doing the work, so any given **User Task** will likely have many **Requirements**.
 Both **user tasks** and **requirements** can be shared across **Use Cases**
 
+
 ![Use case library glossary image](./images/UseCaseTopDown.jpg)
 
 ## Definitions
