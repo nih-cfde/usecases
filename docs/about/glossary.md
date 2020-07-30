@@ -20,12 +20,7 @@ Both **user tasks** and **requirements** can be shared across **Use Cases**
 
 ## Overview
 
-<div id="myContainer" markdown="1">
-
 ![Use case library glossary image](../images/UseCaseTopDown.jpg)
-
-</div>
-
 
 ## Definitions
 
