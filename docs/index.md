@@ -25,12 +25,7 @@ appears to the user as a single step actually is a multistep process to the
 computer doing the work, so any given **User Task** will likely have many **Requirements**.
 Both **user tasks** and **requirements** can be shared across **Use Cases**
 
-
-<div id="myContainer" style="width:500px; height:500px; margin:auto; border:1px; border-style:solid; border-color:#696969;" >>
-
-<img src="./images/UseCaseTopDown.jpg" alt="Use case library glossary image">
-
-</div>
+![Use case library glossary image](./images/UseCaseTopDown.jpg)
 
 ## Definitions
 
