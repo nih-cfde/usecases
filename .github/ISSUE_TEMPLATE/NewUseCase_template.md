@@ -2,7 +2,7 @@
 layout: default
 name: NewUseCase
 about: Submitting new use case idea as an issue
-title: Add use case idea title
+title: [Add label] Add use case idea title
 labels:
 assignees:
 ---
@@ -10,4 +10,4 @@ assignees:
 
 Short description of use case: Describe your idea for a new use case here! Please include details about the required components: use case, persona, objective, user tasks, and requirements.
 
-[sug, sug] <- comma-separated list of first 3 letters of desired tag
+Please add labels to your issue to help us quickly find issue types. Some useful labels are: [new use case], [help wanted], [question], or [enhancement].
