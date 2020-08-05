@@ -1,18 +1,15 @@
 ---
 layout: default
-name: HelpWanted
-about: Request help for submitting use case
-title: Add problem title
-labels: help wanted
+name: Bug report
+about: Report a bug
+title: Add bug title
+labels: bug
 assignees:
 ---
 
-**When requesting help, please be sure to include the following:**
+**When reporting a bug, please be sure to include the following:**
 
 - [ ] A descriptive title
 - [ ] The behavior you expect to see and the actual behavior observed, including any error messages
 - [ ] Steps to reproduce the behavior 
 - [ ] What browser you are using
-
-
-
