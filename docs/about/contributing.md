@@ -22,44 +22,42 @@ If you have a suggestion for a new use case concept and are not familiar with Gi
 
 If you are familiar with GitHub please either:
 
-  - Open a `NewUseCase` [issue](https://github.com/nih-cfde/usecases/issues/new/choose) describing your new use case idea
+  - Open a [`NewUseCase issue`](https://github.com/nih-cfde/usecases/issues/new?labels=new+use+case&template=NewUseCase_template.md&title=Add+use+case+idea+title) describing your new use case idea
   
   - Or write up your use case and submit it as a pull request (PR). Please follow the [Use Case Style Guide](#usecasestyle) below.
   
-!!! tip
-
-    Please add labels to issue titles to help us quickly locate issue types. Some useful labels are: [new use case], [help wanted], [question], or [enhancement].
-
-Issue templates | About
---- | ---
-`NewUseCase` [issue](https://github.com/nih-cfde/usecases/issues/new/choose) | To describe and suggest a new use case idea
-`Enhancements` [issue](https://github.com/nih-cfde/usecases/issues/new/choose) | To suggest general improvements to the Use Case Repository
-`HelpWanted` [issue](https://github.com/nih-cfde/usecases/issues/new/choose) | To request general help
-
 ### PR process
 If you are submitting a pull request, please create one pull request per use case so admin can check the complete change.
 
 **First, add and preview new changes:**
 
-  - Fork the [use cases repo](https://github.com/nih-cfde/usecases) and create a new branch in your forked version
-  - Use the [use case file templates](https://github.com/nih-cfde/usecases/tree/master/docs/template_files) to format and add your new use case files to the appropriate directories on your branch
-  - Submit a PR from your forked repo branch to the `nih-cfde:preview` branch
+  - [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) the [use cases repo](https://github.com/nih-cfde/usecases) and create a new branch in your forked version.
+  - Use the [use case file templates](https://github.com/nih-cfde/usecases/tree/master/docs/template_files) to format and add your new use case files to the appropriate directories on your branch.
+  - After you add changes to your branch, you should see a message near the top of the repo page indicating that your branch is x number of commits ahead of `nih-cfde:master`. There should be a button for 'Pull request' and/or 'Compare' - they lead to the same page to create a PR. Submit a PR from your forked repo branch to the `nih-cfde:preview` branch. 
   - After you submit the PR, make sure the repo checks complete (green check mark)
-  - If the checks complete successfully, the repo's bot will auto-merge your changes to the `preview` branch. Please check your changes on the [preview website](https://cfde-usecases.readthedocs-hosted.com/en/preview/). It may take ~30 minutes for the changes to show up.
-      - Please check that the new content renders correctly (e.g., check page format, table of content links, and page and web hyperlinks) and makes sense relative to existing content
-      - If the checks failed, please submit a `HelpWanted` [issue](https://github.com/nih-cfde/usecases/issues/new/choose) to request help. Please include a reference (using `#`) to your PR so we can check the build logs.
+  - If the checks complete successfully, the repo's bot will auto-merge your changes to the `preview` branch. Please check your changes on the [preview website](https://cfde-usecases.readthedocs-hosted.com/en/preview/). It may take ~30 minutes for the changes you added to show up.
+      - Please check that the new content renders correctly (e.g., check page format, right-side table of contents links, and page and web hyperlinks) and makes sense relative to existing content.
+      - If the checks failed, please submit a [`HelpWanted issue`](https://github.com/nih-cfde/usecases/issues/new?labels=help+wanted&template=help_template.md&title=Add+problem+title) to request help. Please include a reference (using `#`) to your PR so we can check the correct website build logs.
 
 **Second, when you are satisfied with the changes:**
 
-  - Submit a new PR from your branch to the `master` branch
+  - Create a new PR from your branch to the `nih-cfde:master` branch.
   - Request reviews from Use Case maintainers by typing `@ACharbonneau` and `@marisalim` in your PR text box
+  - After you submit the PR, make sure the repo checks complete (green check mark)
   - Please allow up to one week for admin to review your request
 
 ### Use Case approval process
 
 The Use Case committee will mark proposed use cases, and corresponding requirements pages, as `in progress`=&#x23F3;, `approved`=&#x1F44C;, and `done`=&#x2705;, as appropriate.
 
-If you have any questions about contributing, please [open an issue](https://github.com/nih-cfde/usecases/issues/new?template=usecase_suggestion_template.md&title=Add+use+case+idea+title) and we will lend a hand ASAP.
+If you have any questions about contributing, please submit an issue and we will lend a hand ASAP:
+
+Issue templates | About
+--- | ---
+[`NewUseCase issue`](https://github.com/nih-cfde/usecases/issues/new?labels=new+use+case&template=NewUseCase_template.md&title=Add+use+case+idea+title) | To describe and suggest a new use case idea
+[`Enhancements issue`](https://github.com/nih-cfde/usecases/issues/new?labels=enhancement&template=Enhancement_template.md&title=Add+suggested+enhancement+title) | To suggest general improvements to the Use Case Repository
+[`HelpWanted issue`](https://github.com/nih-cfde/usecases/issues/new?labels=help+wanted&template=help_template.md&title=Add+problem+title) | To request general help
+[`Bug report issue`](https://github.com/nih-cfde/usecases/issues/new?labels=bug&template=bug_template.md&title=Add+bug+title) | To report a bug
 
 Thank you for being here and for being a part of the CFDE project!
 
@@ -104,7 +102,7 @@ The **site index** is automatically created by yaml headers in each file (only t
   
   The Use Case committee will finalize yaml header page numbers to ensure they do not clash with existing files.
   
-**File names** should be lower case, have hyphens, and match the heading. Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file ID numbered in order of appearance in this Use Case Repository website.
+**File names** should be lower case, have hyphens, and match the heading (but try to keep them concise). Use Case (`ucXXXX`), User Task (`tXXXX`), and Requirement (`rXXXXX`) files should include a file ID numbered in order of appearance in this Use Case Repository website.
 
    File type | Example
    --- | ---
@@ -140,7 +138,7 @@ The **site index** is automatically created by yaml headers in each file (only t
 - Use the [objective file template](https://github.com/nih-cfde/usecases/tree/master/docs/template_files/objective-template.md) to enter the required sections
 - Required sections:
     - yaml index header
-    - `<name of the task>:`: brief ~1 sentence description of the task
+    - `<name of the task>`: brief ~1 sentence description of the task
 - Save objective files in the [objectives directory](https://github.com/nih-cfde/usecases/tree/master/docs/objectives/)
 
 ### `User task` files
@@ -149,7 +147,7 @@ The **site index** is automatically created by yaml headers in each file (only t
 - Use the [user task file template](https://github.com/nih-cfde/usecases/tree/master/docs/template_files/user-task-template.md) to enter the required sections
 - Required sections:
     - yaml index header
-    - `Appears in Use Cases:`: bullet point list of the use case(s) that the task appears in, with page link to the use case page(s)
+    - `Appears in Use Cases`: bullet point list of the use case(s) that the task appears in, with page link to the use case page(s)
 - Save user task files in the [user-tasks directory](https://github.com/nih-cfde/usecases/tree/master/docs/user-tasks/)
 
 ### `Requirement` files
