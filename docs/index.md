@@ -12,6 +12,9 @@ and place them in the context of larger goals and the Common Fund Data Ecosystem
 
 You can explore the library using the tabs above.
 
+We welcome new contributions.
+Please read the [contributor guidelines](./about/contributing.md) before submitting a pull request.
+
 
 ## Overview
 
@@ -61,7 +64,4 @@ that can be verified with engineering teams (Did we deliver it? Yes
 or no.) A single requirement might be important for any number of different User
 Tasks, and various collections of Requirements can be grouped to support
 different User Tasks.
-## How to contribute new content
 
-We welcome new contributions.
-Please read the [contributor guidelines](./about/contributing.md) before submitting a pull request.
