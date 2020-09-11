@@ -15,10 +15,11 @@ has_children: false
 -   [T0006 Search/filter data sets by anatomic terms](../user-tasks/t0006-searchfilter-data-sets-by-anatomic-terms.md)
 -   [T0011 Search/filter CF Programs by anatomic terms](../user-tasks/t0011-searchfilter-common-fund-programs-by-anatomic-terms.md)
 -   [T0013 Review C2M2 documentation](../user-tasks/t0013-review-c2m2-documentation.md)
-
+-   [T0017 Summarize all anatomy terms hosted by CF Program X](../user-tasks/t0017-summarize-all-anatomy-terms-hosted-by-cf-program-x.md)
 
 ### Use Cases
 
 -   [UC0001 Researcher Browse and Filter](../use-cases/uc0001-researcher-browse-and-filter.md)
 -   [UC0002 Explore data availability to build policy](../use-cases/uc0002-explore-data-availability-to-build-policy.md)
 -   [UC0004 Create a Data Release](../use-cases/uc0004-create-a-data-release.md)
+-   [UC0006 DCC validates data](../use-cases/uc0006-dcc-validates-data.md)

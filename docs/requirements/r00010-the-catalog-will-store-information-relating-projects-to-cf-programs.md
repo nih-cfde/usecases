@@ -14,10 +14,11 @@ has_children: false
 ### User Tasks
 
 -   [T0005 Search/filter data sets by type terms](../user-tasks/t0005-searchfilter-data-sets-by-type-terms.md)
-
+-   [T0018 Summarize all projects hosted by CF Program X](../user-tasks/t0018-summarize-all-subjects-hosted-by-cf-program-x.md)
 
 ### Use Cases
 
 -   [UC0001 Researcher Browse and Filter](../use-cases/uc0001-researcher-browse-and-filter.md)
 -   [UC0002 Explore data availability to build policy](../use-cases/uc0002-explore-data-availability-to-build-policy.md)
 -   [UC0003 Monitor Data Releases as a Data Custodian](../use-cases/uc0003-monitor-data-releases-as-a-data-custodian.md)
+-   [UC0006 DCC validates data](../use-cases/uc0006-dcc-validates-data.md)

@@ -15,8 +15,10 @@ has_children: false
 
 -   [T0006 Search/filter data sets by anatomic terms](../user-tasks/t0006-searchfilter-data-sets-by-anatomic-terms.md)
 -   [T0011 Search/filter CF Programs by anatomic terms](../user-tasks/t0011-searchfilter-common-fund-programs-by-anatomic-terms.md)
+-   [T0017 Summarize all anatomy terms hosted by CF Program X](../user-tasks/t0017-summarize-all-anatomy-terms-hosted-by-cf-program-x.md)
 
 ### Use Cases
 
 -   [UC0002 Explore data availability to build policy](../use-cases/uc0002-explore-data-availability-to-build-policy.md)
 -   [UC0003 Monitor Data Releases as a Data Custodian](../use-cases/uc0003-monitor-data-releases-as-a-data-custodian.md)
+-   [UC0006 DCC validates data](../use-cases/uc0006-dcc-validates-data.md)
