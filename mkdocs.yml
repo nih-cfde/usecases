@@ -9,6 +9,7 @@ theme:
   features:
     - tabs
   logo: images/CFDE-logo.png
+  custom_dir: docs/templates
 
 docs_dir: docs
 
@@ -17,6 +18,8 @@ plugins:
   - search: # necessary for search to work
       separator: '[\s\-\.]+'
   - awesome-pages
+  - git-revision-date-localized
+  - htmlproofer
 markdown_extensions:
 - admonition
 - pymdownx.emoji
