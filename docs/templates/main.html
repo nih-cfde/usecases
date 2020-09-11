@@ -1,8 +1,9 @@
 {% extends "base.html" %}
+{% block analytics %}
+  <script async defer data-domain="cfde-training-and-engagement.readthedocs-hosted.com/en/latest" src="https://plausible.io/js/plausible.js"></script>
+{% endblock %}
 
 {% block disqus %}
-    <div class="md-source-date">
-{% if page.meta.git_revision_date_localized %}
-  Last update: {{ page.meta.git_revision_date_localized }}
-{% endif %}
+    {% include "partials/integrations/disqus.html" %}
 {% endblock %}
+
