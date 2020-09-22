@@ -30,7 +30,7 @@ in the portal. This display helps her answer questions like:
 
 By comparing the summary statistics supplied by the interface, Kristin can determine
 whether the data currently available at the CFDE is up to date with her current
-internal data holdings, and decide whether to start a new metadata ingest.
+internal data holdings, and decide whether it should be released for public view. 
 
 
 ### User Tasks
