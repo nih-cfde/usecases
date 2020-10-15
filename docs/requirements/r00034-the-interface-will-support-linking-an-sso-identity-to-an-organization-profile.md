@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00034 The interface will support linking an SSO identity to an organization profile
+title: "&#x2705; R00034 The interface will support linking an SSO identity to an organization profile"
 nav_order: 3
 parent: Requirements
 has_children: false
