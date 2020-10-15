@@ -1,6 +1,6 @@
 ---
 layout: default
-title: R00002 The interface will support user authentication
+title: "&#x2705; R00002 The interface will support user authentication"
 nav_order: 3
 parent: Requirements
 has_children: false
